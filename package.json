@@ -1,0 +1,14 @@
+{
+  "name": "brooklyn-jazz-atlas",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "repository": "git+ssh://git@github.com/SemanticLab/lljs-map.git",
+  "type": "module",
+  "scripts": {
+    "build": "esbuild atlas/app.js --bundle --format=iife --target=es2020 --outfile=atlas/atlas.js"
+  },
+  "devDependencies": {
+    "esbuild": "0.21.5"
+  }
+}

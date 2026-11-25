@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Jazz shrines on plinths · Brooklyn Jazz Atlas</title>
+    <style>
+      :root {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        color: #25382e;
+        background: #f6f5ed;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+      }
+      header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background: #183b32;
+        color: #f8f4e7;
+        padding: 12px max(21px, 4vw);
+      }
+      header a {
+        color: inherit;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font:
+          24px Georgia,
+          serif;
+      }
+      header img {
+        width: 31px;
+      }
+      header span,
+      .meta {
+        font:
+          13px ui-monospace,
+          monospace;
+      }
+      main {
+        max-width: 1100px;
+        margin: 26px auto;
+        padding: 0 24px;
+      }
+      h1 {
+        margin: 0;
+        font:
+          normal clamp(34px, 5vw, 50px)/1.1 Georgia,
+          serif;
+        letter-spacing: -0.035em;
+      }
+      .names {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 5px;
+        margin: 18px 0 14px;
+      }
+      button,
+      .download {
+        font: inherit;
+        font-size: 14px;
+        cursor: pointer;
+        border: 1px solid #b8bcae;
+        background: #fbfaf3;
+        color: #294234;
+        padding: 8px 12px;
+        border-radius: 4px;
+        text-decoration: none;
+      }
+      .names button[aria-pressed="true"],
+      .options button[aria-pressed="true"] {
+        border-color: #264737;
+        background: #264737;
+        color: #fff;
+      }
+      .stage {
+        height: clamp(270px, 55dvh, 570px);
+        position: relative;
+        background: #f1efe8;
+        border: 1px solid #d1d0c4;
+        border-radius: 6px;
+        overflow: hidden;
+      }
+      .stage img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+        position: absolute;
+        inset: 0;
+      }
+      .stage canvas {
+        display: block;
+        width: 100%;
+        height: 100%;
+        touch-action: none;
+        cursor: grab;
+        position: relative;
+      }
+      .stage canvas:active {
+        cursor: grabbing;
+      }
+      .bottom {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 12px;
+        flex-wrap: wrap;
+        margin: 12px 0;
+      }
+      .options {
+        display: flex;
+        gap: 5px;
+        flex-wrap: wrap;
+      }
+      .detail {
+        color: #556455;
+        margin: 0;
+        font-size: 14px;
+      }
+      .download {
+        display: inline-block;
+      }
+      button:focus-visible,
+      a:focus-visible {
+        outline: 3px solid #b97a36;
+      }
+      .fallback {
+        position: absolute;
+        left: 8px;
+        bottom: 7px;
+        background: #f9f7eb;
+        padding: 4px 8px;
+        color: #516355;
+        font-size: 13px;
+      }
+      .meta {
+        letter-spacing: 0.04em;
+      }
+      .fallback[hidden] {
+        display: none;
+      }
+      @media (max-width: 600px) {
+        main {
+          margin: 20px auto;
+          padding: 0 12px;
+        }
+        header span {
+          font-size: 11px;
+        }
+        .names button,
+        .options button {
+          padding: 7px 9px;
+        }
+        .stage {
+          height: 46dvh;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <a href="../../index.html"
+        ><img src="../../atlas/record.svg" alt="" />Linked Jazz</a
+      ><span>Brooklyn Jazz Atlas</span>
+    </header>
+    <main>
+      <h1>Jazz shrines on plinths</h1>
+      <nav class="names" id="names" aria-label="Choose a model"></nav>
+      <section class="stage" id="stage" aria-label="3D model preview">
+        <img
+          id="poster"
+          src="views/marquee-front.jpg"
+          alt="Club marquee"
+        /><span id="fallback" class="fallback" hidden>Rendered view</span>
+      </section>
+      <div class="bottom">
+        <div class="options" role="group" aria-label="Camera">
+          <button id="iso">Isometric</button
+          ><button id="reverse">Reverse</button
+          ><button id="overhead">Bird’s-eye</button
+          ><button id="spin" aria-pressed="false">Turntable</button>
+        </div>
+        <a id="download" class="download" href="models/marquee.glb" download
+          >Download GLB</a
+        >
+      </div>
+      <p id="hint" class="detail">Drag to rotate. Scroll or pinch to zoom.</p>
+    </main>
+    <script defer src="viewer.js"></script>
+  </body>
+</html>

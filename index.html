@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#173932" />
+    <title>Brooklyn Jazz Atlas · Linked Jazz</title>
+    <meta
+      name="description"
+      content="Explore historic Brooklyn jazz locations from the Linking Lost Jazz Shrines oral histories on a georeferenced 1950 street map."
+    />
+    <link rel="icon" href="atlas/record.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="atlas/style.css" />
+  </head>
+  <body>
+    <header class="mast">
+      <h1><a class="brand" href="./"
+        ><img src="atlas/lljs-icon.png" alt="" /><span>Linking Lost Jazz Shrines</span></a
+      ></h1>
+      <nav aria-label="Main">
+        <button id="explore" class="nav-active">
+          <i data-icon="map"></i><span>Map explorer</span></button
+        ><button id="aboutButton">
+          <i data-icon="book"></i><span>About</span>
+        </button>
+      </nav>
+    </header>
+    <main>
+      <aside id="sidebar" aria-label="Location index">
+        <button
+          id="closeIndex"
+          class="square close-index"
+          aria-label="Close location index"
+        >
+          <i data-icon="close"></i>
+        </button>
+        <div id="indexView">
+          <div class="tools">
+            <label class="search"
+              ><i data-icon="search"></i
+              ><input
+                id="search"
+                type="search"
+                aria-label="Search by place, person, or address"
+                placeholder="Place, person, or address…"
+            /></label>
+            <div class="filter-wrap">
+              <button
+                id="filter"
+                aria-label="Filter site types"
+                title="Filter site types"
+                aria-expanded="false"
+                class="square"
+              >
+                <i data-icon="filter"></i>
+              </button>
+              <div id="filters" class="popover" hidden></div>
+            </div>
+          </div>
+          <div class="list-head">
+            <span id="resultCount" aria-live="polite">Location index</span
+            ><label class="sort"
+              ><select id="sort" aria-label="Sort locations">
+                <option value="alpha">A–Z</option>
+                <option value="rank">Connectedness</option></select
+              ><i data-icon="chevron-down"></i
+            ></label>
+          </div>
+          <div id="results" class="results"></div>
+        </div>
+        <article id="recordView" hidden></article>
+        <section id="communityView" aria-label="Shared-person community" hidden></section>
+      </aside>
+      <section id="map" aria-label="Historic Brooklyn map">
+        <canvas
+          id="scene"
+          tabindex="0"
+          aria-label="Interactive map. Drag to pan, scroll to zoom, or use the arrow and plus or minus keys. Browse each location in the index."
+        ></canvas>
+        <canvas id="swayingShrine" aria-hidden="true" hidden></canvas>
+        <div id="musicNotes" aria-hidden="true"></div>
+        <div class="map-switches">
+          <div class="view-switch" role="group" aria-label="Map view">
+          <button id="iso" aria-pressed="true">
+            <i data-icon="layers"></i>Isometric</button
+          ><button id="top" aria-pressed="false">
+            <i data-icon="overhead"></i>Bird’s-eye
+          </button>
+          </div>
+          <div class="view-switch">
+            <button id="communities" aria-pressed="false" aria-controls="communityKey communityView">Communities</button>
+          </div>
+        </div>
+        <div class="compass" aria-label="North indicator">
+          <b>N</b><span id="needle"></span>
+        </div>
+        <div id="tooltip" hidden></div>
+        <div id="coincident" class="popover" hidden></div>
+        <div class="legend">
+          <button id="legendButton" aria-expanded="true">
+            <span>Map key</span><i data-icon="chevron-down"></i>
+          </button>
+          <div id="legendItems"></div>
+          <div id="communityKey" hidden></div>
+        </div>
+        <div class="map-tools">
+          <button id="reset" title="Reset map view" aria-label="Reset map view">
+            <i data-icon="locate"></i>
+          </button>
+          <div>
+            <button id="zoomIn" title="Zoom in" aria-label="Zoom in">
+              <i data-icon="plus"></i></button
+            ><button id="zoomOut" title="Zoom out" aria-label="Zoom out">
+              <i data-icon="minus"></i>
+            </button>
+          </div>
+        </div>
+        <button id="browse"><i data-icon="list"></i><span id="browseLabel">Location index</span></button>
+        <div id="mapStatus" role="status">Loading historic map…</div>
+      </section>
+    </main>
+    <footer>
+      <span class="archive"
+        ><i data-icon="record"></i>Linking Lost Jazz Shrines</span
+      ><a class="base-credit" href="https://collections.lib.uwm.edu/digital/collection/agdm/id/29508/" target="_blank" rel="noreferrer"
+        ><i data-icon="map"></i>1950 base map <b>·</b> UWM Libraries</a
+      ><span class="map-hint"
+        ><i data-icon="hand"></i>Drag to pan <b>·</b> Scroll to zoom</span
+      >
+    </footer>
+    <dialog id="about">
+      <button id="closeAbout" class="square" aria-label="Close about">
+        <i data-icon="close"></i></button
+      ><small>LINKED JAZZ</small>
+      <h2>About the atlas</h2>
+      <p>
+        This atlas maps places named in the Linking Lost Jazz Shrines oral
+        histories. Select a shape or an index entry to read about a place and
+        the people associated with it.
+      </p>
+      <h3>The map</h3>
+      <p>
+        Cylinders mark jazz shrines, cubes mark organizations,
+        and pyramids mark institutions. Zoom in to see larger shapes and richer
+        colors. Larger markers within each category indicate
+        greater connectedness in the interview collection. Count the notes rising
+        together to read a site's score range. Hover over a marker or open its record
+        for the exact score. Links to people, groups, and places supply half the score.
+        The number of interviews and the number of mentions each supply a quarter.
+      </p>
+      <h3>The records</h3>
+      <p>The Communities layer groups shrines by the people named in their records.
+        Select a colored circle or a group in the map key to explore its people.
+        The five groups include 73 shrines with shared affiliations. The remaining
+        shrines have no recorded overlap. Group totals include unmapped locations.</p>
+      <p>
+        The collection includes venues, schools, and organizations from several
+        decades. Summaries and activity dates are model-assisted readings of
+        interview passages and Wikibase statements. Each record links to its
+        source.
+      </p>
+    </dialog>
+    <script defer src="atlas/atlas.js"></script>
+  </body>
+</html>

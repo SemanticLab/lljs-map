@@ -1,0 +1,235 @@
+{
+  "id": "https://annotations.allmaps.org/maps/a0d103014a51fc6f",
+  "type": "Annotation",
+  "@context": [
+    "http://iiif.io/api/extension/georef/1/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "created": "2026-11-24T04:34:12.175Z",
+  "modified": "2026-11-24T04:34:12.175Z",
+  "motivation": "georeferencing",
+  "target": {
+    "type": "SpecificResource",
+    "source": {
+      "id": "https://cdm17272.contentdm.oclc.org/iiif/2/agdm:29508",
+      "type": "ImageService2",
+      "height": 14046,
+      "width": 10826,
+      "partOf": [
+        {
+          "id": "https://cdm17272.contentdm.oclc.org/iiif/agdm:29508/canvas/c0",
+          "type": "Canvas",
+          "label": {
+            "none": [
+              "The complete map of Brooklyn (New York City) : featuring house numbers, transit lines, playgrounds, wading pools, etc. / produced under the direction of Alexander Gross."
+            ]
+          },
+          "partOf": [
+            {
+              "id": "https://cdm17272.contentdm.oclc.org/iiif/agdm:29508/manifest.json",
+              "type": "Manifest",
+              "label": {
+                "none": [
+                  "The complete map of Brooklyn (New York City) : featuring house numbers, transit lines, playgrounds, wading pools, etc. / produced under the direction of Alexander Gross."
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "provider": [
+        {
+          "label": {
+            "none": [
+              "University of Wisconsin-Milwaukee Libraries"
+            ]
+          },
+          "homepage": [
+            {
+              "id": "https://collections.lib.uwm.edu/digital/collection/agdm/"
+            }
+          ]
+        }
+      ]
+    },
+    "selector": {
+      "type": "SvgSelector",
+      "value": "<svg width=\"10826\" height=\"14046\"><polygon points=\"0,0 0,14046 10826,14046 10826,0\" /></svg>"
+    }
+  },
+  "body": {
+    "type": "FeatureCollection",
+    "transformation": {
+      "type": "polynomial",
+      "options": {
+        "order": 1
+      }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "resourceCoords": [
+            5326,
+            1297
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.95424677422687,
+            40.73020906409627
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "resourceCoords": [
+            8024,
+            7450
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.90066355049244,
+            40.64366365567781
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "resourceCoords": [
+            4379,
+            5249
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.97008625653379,
+            40.67390868204629
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "resourceCoords": [
+            6467,
+            7264
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.92980186174923,
+            40.64631896745112
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "resourceCoords": [
+            7832,
+            4222
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.90578301553619,
+            40.6893703291523
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "resourceCoords": [
+            2255,
+            11815
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.00661205317257,
+            40.58211278116846
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "resourceCoords": [
+            3286,
+            6415
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.99013976711551,
+            40.65749075012718
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "resourceCoords": [
+            2427,
+            12141
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.00322211901768,
+            40.57690545510803
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "resourceCoords": [
+            4294,
+            12205
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.96853593223017,
+            40.57633203822138
+          ]
+        }
+      }
+    ],
+    "_allmaps": {
+      "id": "https://annotations.allmaps.org/maps/a0d103014a51fc6f",
+      "version": "https://annotations.allmaps.org/maps/a0d103014a51fc6f@7af39dd66449cd2c",
+      "image": {
+        "id": "https://annotations.allmaps.org/images/81cc23dd16af3d18",
+        "version": "https://annotations.allmaps.org/images/81cc23dd16af3d18@2298ac630eaf986f",
+        "canvases": [
+          {
+            "id": "https://annotations.allmaps.org/canvases/07dbd37520591ffe",
+            "manifests": [
+              {
+                "id": "https://annotations.allmaps.org/manifests/7b82b2a3c600af19"
+              }
+            ]
+          }
+        ]
+      },
+      "scale": 0.635228,
+      "area": 376843468.02
+    }
+  }
+}

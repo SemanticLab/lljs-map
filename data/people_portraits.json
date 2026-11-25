@@ -1,0 +1,981 @@
+{
+  "Q1009": {
+    "wikidata": "Q809046",
+    "url": "https://linkedjazz.org/image/square/Barry_Harris.png",
+    "local": "atlas/portraits/Q1009.webp"
+  },
+  "Q102": {
+    "wikidata": "Q465943",
+    "url": "https://linkedjazz.org/image/square/Betty_Carter.png",
+    "local": "atlas/portraits/Q102.webp"
+  },
+  "Q1090": {
+    "wikidata": "Q504915",
+    "url": "https://linkedjazz.org/image/square/J.J._Johnson.png",
+    "local": "atlas/portraits/Q1090.webp"
+  },
+  "Q1098": {
+    "wikidata": "Q536415",
+    "url": "https://linkedjazz.org/image/square/Wynton_Kelly.png",
+    "local": "atlas/portraits/Q1098.webp"
+  },
+  "Q1193": {
+    "wikidata": "Q861928",
+    "url": "https://linkedjazz.org/image/square/Bill_Barron_(musician).png",
+    "local": "atlas/portraits/Q1193.webp"
+  },
+  "Q1198": {
+    "wikidata": "Q1077846",
+    "url": "https://linkedjazz.org/image/square/Chris_White_(bassist).png"
+  },
+  "Q1203": {
+    "wikidata": "Q111788899"
+  },
+  "Q13": {
+    "wikidata": "Q103767",
+    "url": "https://linkedjazz.org/image/square/Charlie_Parker.png",
+    "local": "atlas/portraits/Q13.webp"
+  },
+  "Q136": {
+    "wikidata": "Q315780",
+    "url": "https://linkedjazz.org/image/square/Stan_Kenton.png",
+    "local": "atlas/portraits/Q136.webp"
+  },
+  "Q1365": {
+    "wikidata": "Q246462",
+    "url": "https://linkedjazz.org/image/square/Cedar_Walton.png",
+    "local": "atlas/portraits/Q1365.webp"
+  },
+  "Q1403": {
+    "wikidata": "Q780037",
+    "url": "https://linkedjazz.org/image/square/Reggie_Workman.png",
+    "local": "atlas/portraits/Q1403.webp"
+  },
+  "Q1425": {
+    "wikidata": "Q2166025",
+    "url": "https://linkedjazz.org/image/square/Ronnie_Mathews.png",
+    "local": "atlas/portraits/Q1425.webp"
+  },
+  "Q1467": {
+    "wikidata": "Q1370431",
+    "url": "https://linkedjazz.org/image/square/Albert_Heath.png",
+    "local": "atlas/portraits/Q1467.webp"
+  },
+  "Q1580": {
+    "wikidata": "Q326810",
+    "url": "https://linkedjazz.org/image/square/Bill_Doggett.png",
+    "local": "atlas/portraits/Q1580.webp"
+  },
+  "Q16": {
+    "wikidata": "Q545464",
+    "url": "https://linkedjazz.org/image/square/Billy_Eckstine.png",
+    "local": "atlas/portraits/Q16.webp"
+  },
+  "Q1658": {
+    "wikidata": "Q295919",
+    "url": "https://linkedjazz.org/image/square/Sam_Cooke.png",
+    "local": "atlas/portraits/Q1658.webp"
+  },
+  "Q1747": {
+    "wikidata": "Q2073237",
+    "url": "https://linkedjazz.org/image/square/Pete_Brown_(jazz_musician).png",
+    "local": "atlas/portraits/Q1747.webp"
+  },
+  "Q1756": {
+    "wikidata": "Q231484",
+    "url": "https://linkedjazz.org/image/square/Roberta_Flack.png",
+    "local": "atlas/portraits/Q1756.webp"
+  },
+  "Q1759": {
+    "wikidata": "Q275250"
+  },
+  "Q1764": {
+    "wikidata": "Q944779",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Russel%20Malone.jpg?width=300",
+    "commonsFile": "Russel Malone.jpg",
+    "local": "atlas/portraits/Q1764.webp"
+  },
+  "Q18": {
+    "wikidata": "Q312692",
+    "url": "https://linkedjazz.org/image/square/Bud_Powell.png",
+    "local": "atlas/portraits/Q18.webp"
+  },
+  "Q1834": {
+    "wikidata": "Q273210",
+    "url": "https://linkedjazz.org/image/square/James_Baldwin.png",
+    "local": "atlas/portraits/Q1834.webp"
+  },
+  "Q1846": {
+    "wikidata": "Q3073760",
+    "url": "https://semlab.s3.amazonaws.com/images/Q1846.jpg",
+    "local": "atlas/portraits/Q1846.webp"
+  },
+  "Q18811": {
+    "wikidata": "Q69104747"
+  },
+  "Q18812": {
+    "wikidata": "Q69104753"
+  },
+  "Q18818": {
+    "wikidata": "Q2745611"
+  },
+  "Q18824": {
+    "wikidata": "Q4894765"
+  },
+  "Q18913": {
+    "wikidata": "Q401094"
+  },
+  "Q18915": {
+    "wikidata": "Q61041693"
+  },
+  "Q18920": {
+    "wikidata": "Q69925736"
+  },
+  "Q18922": {
+    "wikidata": "Q887872"
+  },
+  "Q18923": {
+    "wikidata": "Q65548832"
+  },
+  "Q18926": {
+    "wikidata": "Q61812707"
+  },
+  "Q18929": {
+    "wikidata": "Q212339",
+    "url": "https://semlab.s3.amazonaws.com/images/Q18929.jpg",
+    "local": "atlas/portraits/Q18929.webp"
+  },
+  "Q18931": {
+    "wikidata": "Q485927",
+    "url": "https://semlab.s3.amazonaws.com/images/Q18931.jpg",
+    "local": "atlas/portraits/Q18931.webp"
+  },
+  "Q18935": {
+    "wikidata": "Q65554916"
+  },
+  "Q18936": {
+    "wikidata": "Q65554926"
+  },
+  "Q18937": {
+    "wikidata": "Q2787266"
+  },
+  "Q18939": {
+    "wikidata": "Q5336042",
+    "url": "https://semlab.s3.amazonaws.com/images/Q18939.jpg"
+  },
+  "Q18941": {
+    "wikidata": "Q65554906"
+  },
+  "Q18943": {
+    "wikidata": "Q1356914",
+    "url": "https://semlab.s3.amazonaws.com/images/Q18943.jpg",
+    "local": "atlas/portraits/Q18943.webp"
+  },
+  "Q18944": {
+    "wikidata": "Q463113",
+    "url": "https://semlab.s3.amazonaws.com/images/Q18944.jpg",
+    "local": "atlas/portraits/Q18944.webp"
+  },
+  "Q18947": {
+    "wikidata": "Q65554917"
+  },
+  "Q18949": {
+    "wikidata": "Q1494823",
+    "url": "https://semlab.s3.amazonaws.com/images/Q18949.jpg",
+    "local": "atlas/portraits/Q18949.webp"
+  },
+  "Q1895": {
+    "wikidata": "Q275455",
+    "url": "https://linkedjazz.org/image/square/Irene_Reid.png",
+    "local": "atlas/portraits/Q1895.webp"
+  },
+  "Q18950": {
+    "wikidata": "Q1523803"
+  },
+  "Q18953": {
+    "wikidata": "Q69103316"
+  },
+  "Q18954": {
+    "wikidata": "Q323490",
+    "url": "https://semlab.s3.amazonaws.com/images/Q18954.jpg",
+    "local": "atlas/portraits/Q18954.webp"
+  },
+  "Q18955": {
+    "wikidata": "Q65554903"
+  },
+  "Q18957": {
+    "wikidata": "Q1681118",
+    "url": "https://semlab.s3.amazonaws.com/images/Q18957.jpg",
+    "local": "atlas/portraits/Q18957.webp"
+  },
+  "Q18960": {
+    "wikidata": "Q6170374",
+    "url": "https://semlab.s3.amazonaws.com/images/Q18960.jpg",
+    "local": "atlas/portraits/Q18960.webp"
+  },
+  "Q18965": {
+    "wikidata": "Q65554918"
+  },
+  "Q18966": {
+    "wikidata": "Q65554908"
+  },
+  "Q18967": {
+    "wikidata": "Q55418244"
+  },
+  "Q18968": {
+    "wikidata": "Q65548169"
+  },
+  "Q18969": {
+    "wikidata": "Q916929",
+    "url": "https://semlab.s3.amazonaws.com/images/Q18969.jpg",
+    "local": "atlas/portraits/Q18969.webp"
+  },
+  "Q18970": {
+    "wikidata": "Q55820361"
+  },
+  "Q18971": {
+    "wikidata": "Q3433512"
+  },
+  "Q18972": {
+    "wikidata": "Q727254"
+  },
+  "Q18973": {
+    "wikidata": "Q69103541"
+  },
+  "Q18976": {
+    "wikidata": "Q65554904",
+    "url": "https://semlab.s3.amazonaws.com/images/Q18976.jpg"
+  },
+  "Q18978": {
+    "wikidata": "Q61742206",
+    "url": "https://semlab.s3.amazonaws.com/images/Q18978.jpg",
+    "local": "atlas/portraits/Q18978.webp"
+  },
+  "Q18979": {
+    "wikidata": "Q822606"
+  },
+  "Q18980": {
+    "wikidata": "Q65554902"
+  },
+  "Q18981": {
+    "wikidata": "Q1724922"
+  },
+  "Q18983": {
+    "wikidata": "Q1497852"
+  },
+  "Q18984": {
+    "wikidata": "Q6525364"
+  },
+  "Q18985": {
+    "wikidata": "Q65554925"
+  },
+  "Q18986": {
+    "wikidata": "Q330240",
+    "url": "https://semlab.s3.amazonaws.com/images/Q18986.jpg",
+    "local": "atlas/portraits/Q18986.webp"
+  },
+  "Q18987": {
+    "wikidata": "Q65554915",
+    "url": "https://semlab.s3.amazonaws.com/images/Q18987.jpg"
+  },
+  "Q18990": {
+    "wikidata": "Q18358111",
+    "url": "https://semlab.s3.amazonaws.com/images/Q18990.jpg"
+  },
+  "Q18994": {
+    "wikidata": "Q1283540"
+  },
+  "Q18996": {
+    "wikidata": "Q65967248"
+  },
+  "Q19002": {
+    "wikidata": "Q65554920"
+  },
+  "Q19003": {
+    "wikidata": "Q217839",
+    "url": "https://semlab.s3.amazonaws.com/images/Q19003.jpg",
+    "local": "atlas/portraits/Q19003.webp"
+  },
+  "Q19012": {
+    "wikidata": "Q29110343"
+  },
+  "Q19013": {
+    "wikidata": "Q65554907"
+  },
+  "Q19016": {
+    "wikidata": "Q65554900"
+  },
+  "Q19017": {
+    "wikidata": "Q2162653"
+  },
+  "Q19020": {
+    "wikidata": "Q65554924"
+  },
+  "Q19021": {
+    "wikidata": "Q65554905"
+  },
+  "Q19022": {
+    "wikidata": "Q1022567"
+  },
+  "Q19026": {
+    "wikidata": "Q1488293"
+  },
+  "Q19029": {
+    "wikidata": "Q7852105",
+    "url": "https://semlab.s3.amazonaws.com/images/Q19029.jpg"
+  },
+  "Q19031": {
+    "wikidata": "Q2510230",
+    "url": "https://semlab.s3.amazonaws.com/images/Q19031.jpg",
+    "local": "atlas/portraits/Q19031.webp"
+  },
+  "Q19032": {
+    "wikidata": "Q65554901"
+  },
+  "Q19034": {
+    "wikidata": "Q15441507"
+  },
+  "Q19036": {
+    "wikidata": "Q355582",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Perkins%2C%201963.jpg?width=300",
+    "commonsFile": "Walter Perkins, 1963.jpg",
+    "local": "atlas/portraits/Q19036.webp"
+  },
+  "Q19038": {
+    "wikidata": "Q15449804"
+  },
+  "Q19039": {
+    "wikidata": "Q2581448"
+  },
+  "Q1909": {
+    "wikidata": "Q553921",
+    "url": "https://semlab.s3.amazonaws.com/images/Q1909.jpg",
+    "local": "atlas/portraits/Q1909.webp"
+  },
+  "Q19100": {
+    "wikidata": "Q65554919"
+  },
+  "Q1953": {
+    "wikidata": "Q892998",
+    "url": "https://linkedjazz.org/image/square/Booker_Ervin.png",
+    "local": "atlas/portraits/Q1953.webp"
+  },
+  "Q20": {
+    "wikidata": "Q453604",
+    "url": "https://linkedjazz.org/image/square/Tony_Williams_(drummer).png",
+    "local": "atlas/portraits/Q20.webp"
+  },
+  "Q200": {
+    "wikidata": "Q318619",
+    "url": "https://linkedjazz.org/image/square/McCoy_Tyner.png",
+    "local": "atlas/portraits/Q200.webp"
+  },
+  "Q202": {
+    "wikidata": "Q1026123",
+    "url": "https://linkedjazz.org/image/square/Cal_Massey.png",
+    "local": "atlas/portraits/Q202.webp"
+  },
+  "Q2020": {
+    "wikidata": "Q7984120",
+    "url": "https://semlab.s3.amazonaws.com/images/Q2020.jpg"
+  },
+  "Q204": {
+    "wikidata": "Q324522",
+    "url": "https://linkedjazz.org/image/square/Billy_Higgins.png",
+    "local": "atlas/portraits/Q204.webp"
+  },
+  "Q20533": {
+    "wikidata": "Q110307226"
+  },
+  "Q21684": {
+    "wikidata": "Q69917027"
+  },
+  "Q22233": {
+    "wikidata": "Q69177758"
+  },
+  "Q22234": {
+    "wikidata": "Q541634",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22234.jpg",
+    "local": "atlas/portraits/Q22234.webp"
+  },
+  "Q22236": {
+    "wikidata": "Q205876",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22236.jpg"
+  },
+  "Q22238": {
+    "wikidata": "Q267572",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22238.jpg",
+    "local": "atlas/portraits/Q22238.webp"
+  },
+  "Q22241": {
+    "wikidata": "Q107637949"
+  },
+  "Q22242": {
+    "wikidata": "Q65472830"
+  },
+  "Q22250": {
+    "wikidata": "Q106219119"
+  },
+  "Q22254": {
+    "wikidata": "Q860283",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22254.jpg",
+    "local": "atlas/portraits/Q22254.webp"
+  },
+  "Q22259": {
+    "wikidata": "Q1370642",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22259.jpg",
+    "local": "atlas/portraits/Q22259.webp"
+  },
+  "Q22260": {
+    "wikidata": "Q60330364"
+  },
+  "Q22261": {
+    "wikidata": "Q711204",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22261.jpg",
+    "local": "atlas/portraits/Q22261.webp"
+  },
+  "Q22263": {
+    "wikidata": "Q538079"
+  },
+  "Q22266": {
+    "wikidata": "Q286022",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22266.jpg",
+    "local": "atlas/portraits/Q22266.webp"
+  },
+  "Q22269": {
+    "wikidata": "Q99706043"
+  },
+  "Q22270": {
+    "wikidata": "Q1894385",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22270.jpg",
+    "local": "atlas/portraits/Q22270.webp"
+  },
+  "Q22271": {
+    "wikidata": "Q18620640",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22271.jpg"
+  },
+  "Q22275": {
+    "wikidata": "Q574163"
+  },
+  "Q22276": {
+    "wikidata": "Q1242049",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22276.jpg",
+    "local": "atlas/portraits/Q22276.webp"
+  },
+  "Q22285": {
+    "wikidata": "Q1286018"
+  },
+  "Q22286": {
+    "wikidata": "Q990708"
+  },
+  "Q22302": {
+    "wikidata": "Q382262",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Prysock%20%28c.1950%29.jpg?width=300",
+    "commonsFile": "Arthur Prysock (c.1950).jpg",
+    "local": "atlas/portraits/Q22302.webp"
+  },
+  "Q22311": {
+    "wikidata": "Q4711378"
+  },
+  "Q22312": {
+    "wikidata": "Q1164703"
+  },
+  "Q22428": {
+    "wikidata": "Q98609608"
+  },
+  "Q22429": {
+    "wikidata": "Q107641780"
+  },
+  "Q22452": {
+    "wikidata": "Q933192",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22452.jpg",
+    "local": "atlas/portraits/Q22452.webp"
+  },
+  "Q22486": {
+    "wikidata": "Q1138552",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22486.jpg"
+  },
+  "Q22492": {
+    "wikidata": "Q7156518",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22492.jpg"
+  },
+  "Q22493": {
+    "url": "https://semlab.s3.amazonaws.com/images/Q22493.jpg"
+  },
+  "Q22500": {
+    "wikidata": "Q65548768"
+  },
+  "Q22512": {
+    "wikidata": "Q1351578",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22512.jpg",
+    "local": "atlas/portraits/Q22512.webp"
+  },
+  "Q22514": {
+    "wikidata": "Q115861710"
+  },
+  "Q22518": {
+    "wikidata": "Q2066063"
+  },
+  "Q22519": {
+    "wikidata": "Q114082679"
+  },
+  "Q22534": {
+    "wikidata": "Q1953865",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22534.jpg",
+    "local": "atlas/portraits/Q22534.webp"
+  },
+  "Q22540": {
+    "wikidata": "Q69176272"
+  },
+  "Q22542": {
+    "wikidata": "Q2174545"
+  },
+  "Q22548": {
+    "wikidata": "Q1333051",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22548.jpg",
+    "local": "atlas/portraits/Q22548.webp"
+  },
+  "Q22549": {
+    "wikidata": "Q64697872"
+  },
+  "Q22554": {
+    "wikidata": "Q830379"
+  },
+  "Q22577": {
+    "wikidata": "Q106615349"
+  },
+  "Q22578": {
+    "wikidata": "Q1638199",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kim%20Clarke%20Defunkt%20Unterfahrt%202012-02-21-004.jpg?width=300",
+    "commonsFile": "Kim Clarke Defunkt Unterfahrt 2012-02-21-004.jpg"
+  },
+  "Q22585": {
+    "wikidata": "Q69104769"
+  },
+  "Q22590": {
+    "wikidata": "Q106618369"
+  },
+  "Q22593": {
+    "wikidata": "Q106618317"
+  },
+  "Q22600": {
+    "wikidata": "Q16841978"
+  },
+  "Q22606": {
+    "wikidata": "Q69924263"
+  },
+  "Q22613": {
+    "wikidata": "Q23008611"
+  },
+  "Q22619": {
+    "wikidata": "Q54562789"
+  },
+  "Q22620": {
+    "wikidata": "Q962378",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22620.jpg"
+  },
+  "Q22622": {
+    "wikidata": "Q62766",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22622.jpg",
+    "local": "atlas/portraits/Q22622.webp"
+  },
+  "Q22625": {
+    "wikidata": "Q742642",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22625.jpg"
+  },
+  "Q22626": {
+    "wikidata": "Q179157",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22626.jpg"
+  },
+  "Q22694": {
+    "wikidata": "Q858535",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22694.jpg"
+  },
+  "Q22697": {
+    "wikidata": "Q72883617"
+  },
+  "Q22774": {
+    "wikidata": "Q1327953"
+  },
+  "Q22775": {
+    "wikidata": "Q1364479"
+  },
+  "Q22931": {
+    "wikidata": "Q1869869"
+  },
+  "Q22938": {
+    "wikidata": "Q108099403"
+  },
+  "Q22952": {
+    "wikidata": "Q57832127"
+  },
+  "Q22962": {
+    "wikidata": "Q862431",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bill%20Saxton%202017.jpg?width=300",
+    "commonsFile": "Bill Saxton 2017.jpg",
+    "local": "atlas/portraits/Q22962.webp"
+  },
+  "Q22963": {
+    "wikidata": "Q529243"
+  },
+  "Q22964": {
+    "wikidata": "Q588551",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22964.jpg",
+    "local": "atlas/portraits/Q22964.webp"
+  },
+  "Q22973": {
+    "wikidata": "Q1573406",
+    "url": "https://semlab.s3.amazonaws.com/images/Q22973.jpg",
+    "local": "atlas/portraits/Q22973.webp"
+  },
+  "Q23162": {
+    "wikidata": "Q1902158"
+  },
+  "Q23163": {
+    "wikidata": "Q285629",
+    "url": "https://semlab.s3.amazonaws.com/images/Q23163.jpg",
+    "local": "atlas/portraits/Q23163.webp"
+  },
+  "Q23164": {
+    "wikidata": "Q3475967",
+    "url": "https://semlab.s3.amazonaws.com/images/Q23164.jpg",
+    "local": "atlas/portraits/Q23164.webp"
+  },
+  "Q23165": {
+    "wikidata": "Q353123",
+    "url": "https://semlab.s3.amazonaws.com/images/Q23165.jpg",
+    "local": "atlas/portraits/Q23165.webp"
+  },
+  "Q23166": {
+    "wikidata": "Q442477",
+    "url": "https://semlab.s3.amazonaws.com/images/Q23166.jpg",
+    "local": "atlas/portraits/Q23166.webp"
+  },
+  "Q23167": {
+    "wikidata": "Q453956",
+    "url": "https://semlab.s3.amazonaws.com/images/Q23167.jpg",
+    "local": "atlas/portraits/Q23167.webp"
+  },
+  "Q23168": {
+    "wikidata": "Q5132763"
+  },
+  "Q23171": {
+    "wikidata": "Q69932253"
+  },
+  "Q23356": {
+    "wikidata": "Q5522586",
+    "url": "https://semlab.s3.amazonaws.com/images/Q23356.jpg"
+  },
+  "Q23358": {
+    "wikidata": "Q563291",
+    "url": "https://semlab.s3.amazonaws.com/images/Q23358.jpg",
+    "local": "atlas/portraits/Q23358.webp"
+  },
+  "Q23457": {
+    "wikidata": "Q863114",
+    "url": "https://semlab.s3.amazonaws.com/images/Q23457.jpg",
+    "local": "atlas/portraits/Q23457.webp"
+  },
+  "Q24": {
+    "wikidata": "Q217812",
+    "url": "https://linkedjazz.org/image/square/Coleman_Hawkins.png",
+    "local": "atlas/portraits/Q24.webp"
+  },
+  "Q248": {
+    "wikidata": "Q497183",
+    "url": "https://linkedjazz.org/image/square/Oscar_Pettiford.png",
+    "local": "atlas/portraits/Q248.webp"
+  },
+  "Q26321": {
+    "wikidata": "Q121841177"
+  },
+  "Q278": {
+    "wikidata": "Q494976",
+    "url": "https://linkedjazz.org/image/square/Kai_Winding.png",
+    "local": "atlas/portraits/Q278.webp"
+  },
+  "Q281": {
+    "wikidata": "Q311715",
+    "url": "https://linkedjazz.org/image/square/Art_Blakey.png",
+    "local": "atlas/portraits/Q281.webp"
+  },
+  "Q30": {
+    "wikidata": "Q1346401",
+    "url": "https://linkedjazz.org/image/square/Jaki_Byard.png",
+    "local": "atlas/portraits/Q30.webp"
+  },
+  "Q304": {
+    "wikidata": "Q526442",
+    "url": "https://linkedjazz.org/image/square/Andy_Kirk_(musician).png",
+    "local": "atlas/portraits/Q304.webp"
+  },
+  "Q325": {
+    "wikidata": "Q1345099",
+    "url": "https://linkedjazz.org/image/square/King_Curtis.png",
+    "local": "atlas/portraits/Q325.webp"
+  },
+  "Q33": {
+    "wikidata": "Q7346",
+    "url": "https://linkedjazz.org/image/square/John_Coltrane.png",
+    "local": "atlas/portraits/Q33.webp"
+  },
+  "Q331": {
+    "wikidata": "Q365560",
+    "url": "https://linkedjazz.org/image/square/Horace_Silver.png",
+    "local": "atlas/portraits/Q331.webp"
+  },
+  "Q34": {
+    "wikidata": "Q273076",
+    "url": "https://linkedjazz.org/image/square/Wynton_Marsalis.png",
+    "local": "atlas/portraits/Q34.webp"
+  },
+  "Q347": {
+    "wikidata": "Q919632",
+    "url": "https://linkedjazz.org/image/square/Eubie_Blake.png",
+    "local": "atlas/portraits/Q347.webp"
+  },
+  "Q35": {
+    "wikidata": "Q49575",
+    "url": "https://linkedjazz.org/image/square/Dizzy_Gillespie.png",
+    "local": "atlas/portraits/Q35.webp"
+  },
+  "Q353": {
+    "wikidata": "Q489245",
+    "url": "https://linkedjazz.org/image/square/Frank_Foster_(musician).png",
+    "local": "atlas/portraits/Q353.webp"
+  },
+  "Q365": {
+    "wikidata": "Q920490",
+    "url": "https://linkedjazz.org/image/square/Jackie_McLean.png",
+    "local": "atlas/portraits/Q365.webp"
+  },
+  "Q41": {
+    "wikidata": "Q93341",
+    "url": "https://linkedjazz.org/image/square/Miles_Davis.png",
+    "local": "atlas/portraits/Q41.webp"
+  },
+  "Q410": {
+    "wikidata": "Q317161",
+    "url": "https://linkedjazz.org/image/square/Wayne_Shorter.png",
+    "local": "atlas/portraits/Q410.webp"
+  },
+  "Q448": {
+    "wikidata": "Q502311",
+    "url": "https://linkedjazz.org/image/square/Sonny_Stitt.png",
+    "local": "atlas/portraits/Q448.webp"
+  },
+  "Q45": {
+    "wikidata": "Q434593",
+    "url": "https://linkedjazz.org/image/square/Ron_Carter.png",
+    "local": "atlas/portraits/Q45.webp"
+  },
+  "Q457": {
+    "wikidata": "Q326659",
+    "url": "https://linkedjazz.org/image/square/Howard_McGhee.png",
+    "local": "atlas/portraits/Q457.webp"
+  },
+  "Q46": {
+    "wikidata": "Q1691660",
+    "url": "https://linkedjazz.org/image/square/Joe_Williams_(jazz_singer).png",
+    "local": "atlas/portraits/Q46.webp"
+  },
+  "Q469": {
+    "wikidata": "Q1239006",
+    "url": "https://linkedjazz.org/image/square/Don_Byas.png",
+    "local": "atlas/portraits/Q469.webp"
+  },
+  "Q47": {
+    "wikidata": "Q299208",
+    "url": "https://linkedjazz.org/image/square/Sonny_Rollins.png",
+    "local": "atlas/portraits/Q47.webp"
+  },
+  "Q471": {
+    "wikidata": "Q504337",
+    "url": "https://linkedjazz.org/image/square/Andrew_Cyrille.png",
+    "local": "atlas/portraits/Q471.webp"
+  },
+  "Q493": {
+    "wikidata": "Q105875",
+    "url": "https://linkedjazz.org/image/square/Herbie_Hancock.png",
+    "local": "atlas/portraits/Q493.webp"
+  },
+  "Q52": {
+    "wikidata": "Q354508",
+    "url": "https://linkedjazz.org/image/square/Sun_Ra.png",
+    "local": "atlas/portraits/Q52.webp"
+  },
+  "Q55": {
+    "wikidata": "Q498729",
+    "url": "https://linkedjazz.org/image/square/Kenny_Dorham.png",
+    "local": "atlas/portraits/Q55.webp"
+  },
+  "Q566": {
+    "wikidata": "Q240371",
+    "url": "https://linkedjazz.org/image/square/Carmen_McRae.png",
+    "local": "atlas/portraits/Q566.webp"
+  },
+  "Q606": {
+    "wikidata": "Q15454366",
+    "url": "https://linkedjazz.org/image/square/Peg_Leg_Bates.png"
+  },
+  "Q61": {
+    "wikidata": "Q229322",
+    "url": "https://linkedjazz.org/image/square/Dinah_Washington.png",
+    "local": "atlas/portraits/Q61.webp"
+  },
+  "Q63": {
+    "wikidata": "Q1101297",
+    "url": "https://linkedjazz.org/image/square/Clifford_Jordan.png",
+    "local": "atlas/portraits/Q63.webp"
+  },
+  "Q656": {
+    "wikidata": "Q274181",
+    "url": "https://linkedjazz.org/image/square/Mamie_Smith.png",
+    "local": "atlas/portraits/Q656.webp"
+  },
+  "Q657": {
+    "wikidata": "Q1371187",
+    "url": "https://linkedjazz.org/image/square/Randy_Weston.png",
+    "local": "atlas/portraits/Q657.webp"
+  },
+  "Q66": {
+    "wikidata": "Q175899",
+    "url": "https://linkedjazz.org/image/square/Max_Roach.png",
+    "local": "atlas/portraits/Q66.webp"
+  },
+  "Q660": {
+    "wikidata": "Q706697",
+    "url": "https://linkedjazz.org/image/square/Red_Garland.png",
+    "local": "atlas/portraits/Q660.webp"
+  },
+  "Q661": {
+    "wikidata": "Q500464",
+    "url": "https://linkedjazz.org/image/square/Art_Farmer.png",
+    "local": "atlas/portraits/Q661.webp"
+  },
+  "Q696": {
+    "wikidata": "Q2526615",
+    "url": "https://linkedjazz.org/image/square/Vincent_Herring.png",
+    "local": "atlas/portraits/Q696.webp"
+  },
+  "Q71": {
+    "wikidata": "Q109612",
+    "url": "https://linkedjazz.org/image/square/Thelonious_Monk.png",
+    "local": "atlas/portraits/Q71.webp"
+  },
+  "Q731": {
+    "wikidata": "Q735795",
+    "url": "https://linkedjazz.org/image/square/Roy_Campanella.png",
+    "local": "atlas/portraits/Q731.webp"
+  },
+  "Q736": {
+    "wikidata": "Q716851",
+    "url": "https://linkedjazz.org/image/square/Richard_Davis_(double_bassist).png",
+    "local": "atlas/portraits/Q736.webp"
+  },
+  "Q738": {
+    "wikidata": "Q2570294",
+    "url": "https://linkedjazz.org/image/square/Wild_Bill_Davis.png",
+    "local": "atlas/portraits/Q738.webp"
+  },
+  "Q74": {
+    "wikidata": "Q1064070",
+    "url": "https://linkedjazz.org/image/square/Charles_Davis_(saxophonist).png",
+    "local": "atlas/portraits/Q74.webp"
+  },
+  "Q745": {
+    "wikidata": "Q221048",
+    "url": "https://linkedjazz.org/image/square/Jackie_Robinson.png",
+    "local": "atlas/portraits/Q745.webp"
+  },
+  "Q746": {
+    "wikidata": "Q273206",
+    "url": "https://linkedjazz.org/image/square/Joe_Louis.png",
+    "local": "atlas/portraits/Q746.webp"
+  },
+  "Q777": {
+    "wikidata": "Q110477",
+    "url": "https://linkedjazz.org/image/square/Cannonball_Adderley.png",
+    "local": "atlas/portraits/Q777.webp"
+  },
+  "Q789": {
+    "wikidata": "Q340063",
+    "url": "https://linkedjazz.org/image/square/Wilbur_Ware.png",
+    "local": "atlas/portraits/Q789.webp"
+  },
+  "Q8": {
+    "wikidata": "Q470617",
+    "url": "https://linkedjazz.org/image/square/Pharoah_Sanders.png",
+    "local": "atlas/portraits/Q8.webp"
+  },
+  "Q81": {
+    "wikidata": "Q20858255",
+    "url": "https://linkedjazz.org/image/square/Teddy_Reig.png",
+    "local": "atlas/portraits/Q81.webp"
+  },
+  "Q873": {
+    "wikidata": "Q448896",
+    "url": "https://linkedjazz.org/image/square/Joanne_Brackeen.png",
+    "local": "atlas/portraits/Q873.webp"
+  },
+  "Q9": {
+    "wikidata": "Q563275",
+    "url": "https://linkedjazz.org/image/square/Gigi_Gryce.png",
+    "local": "atlas/portraits/Q9.webp"
+  },
+  "Q90": {
+    "wikidata": "Q107432",
+    "url": "https://linkedjazz.org/image/square/Charles_Mingus.png",
+    "local": "atlas/portraits/Q90.webp"
+  },
+  "Q918": {
+    "wikidata": "Q1689415",
+    "url": "https://linkedjazz.org/image/square/Jimmy_Owens_(musician).png",
+    "local": "atlas/portraits/Q918.webp"
+  },
+  "Q921": {
+    "wikidata": "Q541659",
+    "url": "https://linkedjazz.org/image/square/Paul_Chambers.png",
+    "local": "atlas/portraits/Q921.webp"
+  },
+  "Q924": {
+    "wikidata": "Q499491",
+    "url": "https://linkedjazz.org/image/square/Jimmy_Cobb.png",
+    "local": "atlas/portraits/Q924.webp"
+  },
+  "Q934": {
+    "wikidata": "Q346762",
+    "url": "https://linkedjazz.org/image/square/Freddie_Hubbard.png",
+    "local": "atlas/portraits/Q934.webp"
+  },
+  "Q935": {
+    "wikidata": "Q2390289",
+    "url": "https://linkedjazz.org/image/square/Talib_Kibwe.png",
+    "local": "atlas/portraits/Q935.webp"
+  },
+  "Q944": {
+    "wikidata": "Q534842",
+    "url": "https://linkedjazz.org/image/square/Hank_Mobley.png",
+    "local": "atlas/portraits/Q944.webp"
+  },
+  "Q95": {
+    "wikidata": "Q276609",
+    "url": "https://linkedjazz.org/image/square/Big_Maybelle.png",
+    "local": "atlas/portraits/Q95.webp"
+  },
+  "Q954": {
+    "wikidata": "Q489233",
+    "url": "https://linkedjazz.org/image/square/Kenny_Barron.png",
+    "local": "atlas/portraits/Q954.webp"
+  },
+  "Q959": {
+    "wikidata": "Q362564",
+    "url": "https://linkedjazz.org/image/square/Lee_Morgan.png",
+    "local": "atlas/portraits/Q959.webp"
+  },
+  "Q968": {
+    "wikidata": "Q582740",
+    "url": "https://linkedjazz.org/image/square/Houston_Person.png",
+    "local": "atlas/portraits/Q968.webp"
+  }
+}

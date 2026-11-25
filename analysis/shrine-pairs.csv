@@ -1,0 +1,694 @@
+Shrine A,Shrine B,Shared people,People listed at A,People listed at B,Jaccard similarity,Shared names,Shrine A Wikibase,Shrine B Wikibase
+Flamingo Lounge,Jazz 966,8,17,23,0.25,Edwin Stoute | Greg Bandy | Harold Valle | Jo Ann Cheatham | Keisha St. Joan | Kiane Zawadi | Scoby Stroman | Torrie McCartney,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18857
+The Continental,Tony's Grand Dean,7,25,21,0.1795,Art Blakey | Art Farmer | Gigi Gryce | J.J. Johnson | Kenny Dorham | Miles Davis | Willie Jones,https://base.semlab.io/wiki/Item:Q18884,https://base.semlab.io/wiki/Item:Q18898
+Club La Marchal,The Blue Coronet,6,14,25,0.1818,Edwin Stoute | Freddie Hubbard | Harold Mabern | James Spaulding | Kwesi Mensah Wali | Larry Ridley,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18834
+Sista's Place,The East,6,21,25,0.15,Ahmed Abdullah | Carlos Garnett | James Spaulding | Leon Thomas | Reggie Workman | Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18876,https://base.semlab.io/wiki/Item:Q18885
+The Blue Coronet,The Continental,6,25,25,0.1364,"James Spaulding | Kwesi Mensah Wali | Miles Davis | Richard ""Dickie"" Habersham-Bey | Sonny Stitt | Wynton Kelly",https://base.semlab.io/wiki/Item:Q18834,https://base.semlab.io/wiki/Item:Q18884
+The Blue Coronet,The East,6,25,25,0.1364,Ahmed Abdullah | Carlos Garnett | Freddie Hubbard | James Spaulding | Jitu Weusi | Kwesi Mensah Wali,https://base.semlab.io/wiki/Item:Q18834,https://base.semlab.io/wiki/Item:Q18885
+Putnam Central,Tony's Grand Dean,5,12,21,0.1786,Charles Mingus | Max Roach | Randy Weston | Thelonious Monk | Willie Jones,https://base.semlab.io/wiki/Item:Q18871,https://base.semlab.io/wiki/Item:Q18898
+Brooklyn Academy of Music,Up Over Jazz Café,5,14,23,0.1562,Bob Myers | E.J. Strickland | Kenyatta Beasley | Marcus Strickland | Robert Glasper,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18903
+New Muse,The Muse,4,5,16,0.2353,Bill Barron | Chris White | Reggie Workman | Rudy Collins,https://base.semlab.io/wiki/Item:Q22544,https://base.semlab.io/wiki/Item:Q18894
+Club La Marchal,Turbo Village,4,14,8,0.2222,Edwin Stoute | Freddie Hubbard | Harold Mabern | Larry Ridley,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18901
+Flamingo Lounge,Valhal Jazz Pub,4,17,10,0.1739,Keisha St. Joan | Michael Howard | Torrie McCartney | Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18904
+78 Club,Tony's Grand Dean,4,8,21,0.16,"Fred Braithwaite, Sr. | Jimmy Gittins | Max Roach | Randy Weston",https://base.semlab.io/wiki/Item:Q18827,https://base.semlab.io/wiki/Item:Q18898
+The Blue Coronet,Turbo Village,4,25,8,0.1379,Edwin Stoute | Freddie Hubbard | Harold Mabern | Larry Ridley,https://base.semlab.io/wiki/Item:Q18834,https://base.semlab.io/wiki/Item:Q18901
+Baby Grand Brooklyn,Jazz 966,4,15,23,0.1176,Edwin Stoute | Harold Valle | Sam Pinn | Viola Plummer,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18857
+Kingston Lounge,Tony's Grand Dean,4,17,21,0.1176,Jimmy Morton | Randy Weston | Sam Gill | Thelonious Monk,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q18898
+Sista's Place,Up Over Jazz Café,4,21,23,0.1,Andrew Cyrille | James Spaulding | Jo Ann Cheatham | Reggie Workman,https://base.semlab.io/wiki/Item:Q18876,https://base.semlab.io/wiki/Item:Q18903
+Loew's Brevoort Theatre,Willoughby Temple,3,9,5,0.2727,Edwin Stoute | Jimmy Morton | Miles Davis,https://base.semlab.io/wiki/Item:Q18862,https://base.semlab.io/wiki/Item:Q18910
+Brooklyn Paramount Theater,Town Hill,3,5,10,0.25,Dinah Washington | Donald Sangster | Harold Valle,https://base.semlab.io/wiki/Item:Q22479,https://base.semlab.io/wiki/Item:Q18900
+Medgar Evers College,Sugar Hill,3,12,5,0.2143,Alma Carroll | Jo Ann Cheatham | Torrie McCartney,https://base.semlab.io/wiki/Item:Q18864,https://base.semlab.io/wiki/Item:Q18883
+Arlington Inn,Medgar Evers College,3,8,12,0.1765,Alma Carroll | Jimmy Morton | Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18864
+The Jazz Spot,Valhal Jazz Pub,3,10,10,0.1765,Kim Clarke | Michael Howard | Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18891,https://base.semlab.io/wiki/Item:Q18904
+Arlington Inn,Baby Grand Brooklyn,3,8,15,0.15,Alma Carroll | Harold Valle | King Curtis,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18830
+Sista's Place,Sugar Hill,3,21,5,0.1304,Alma Carroll | Jo Ann Cheatham | Torrie McCartney,https://base.semlab.io/wiki/Item:Q18876,https://base.semlab.io/wiki/Item:Q18883
+Brownies,Jazz 966,3,4,23,0.125,Jo Ann Cheatham | Sam Pinn | Scoby Stroman,https://base.semlab.io/wiki/Item:Q18840,https://base.semlab.io/wiki/Item:Q18857
+Flamingo Lounge,The Jazz Spot,3,17,10,0.125,Harold Valle | Michael Howard | Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18891
+Flamingo Lounge,Town Hill,3,17,10,0.125,Harold Valle | Jo Ann Cheatham | Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18900
+Baby Grand Brooklyn,Brooklyn Academy of Music,3,15,14,0.1154,Alma Carroll | Edwin Stoute | Joe Carroll,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18837
+Flamingo Lounge,Medgar Evers College,3,17,12,0.1154,Jo Ann Cheatham | Michael Howard | Torrie McCartney,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18864
+Kingston Lounge,Putnam Central,3,17,12,0.1154,Harold Cumberbatch | Randy Weston | Thelonious Monk,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q18871
+The Blue Coronet,The Centaur,3,25,4,0.1154,Jimmy Cobb | Paul Chambers | Wynton Kelly,https://base.semlab.io/wiki/Item:Q18834,https://base.semlab.io/wiki/Item:Q22435
+The Blue Coronet,The Fantasy,3,25,4,0.1154,Edwin Stoute | Jitu Weusi | Wynton Kelly,https://base.semlab.io/wiki/Item:Q18834,https://base.semlab.io/wiki/Item:Q18887
+The Blue Coronet,Willoughby Temple,3,25,5,0.1111,Edwin Stoute | Jackie McLean | Miles Davis,https://base.semlab.io/wiki/Item:Q18834,https://base.semlab.io/wiki/Item:Q18910
+Sista's Place,Valhal Jazz Pub,3,21,10,0.1071,Torrie McCartney | Tulivu-Donna Cumberbatch | Vanessa Rubin,https://base.semlab.io/wiki/Item:Q18876,https://base.semlab.io/wiki/Item:Q18904
+Medgar Evers College,Sista's Place,3,12,21,0.1,Alma Carroll | Jo Ann Cheatham | Torrie McCartney,https://base.semlab.io/wiki/Item:Q18864,https://base.semlab.io/wiki/Item:Q18876
+Loew's Brevoort Theatre,The Blue Coronet,3,9,25,0.0968,Edwin Stoute | Miles Davis | Wynton Kelly,https://base.semlab.io/wiki/Item:Q18862,https://base.semlab.io/wiki/Item:Q18834
+Loew's Brevoort Theatre,The Continental,3,9,25,0.0968,Cannonball Adderley | Miles Davis | Wynton Kelly,https://base.semlab.io/wiki/Item:Q18862,https://base.semlab.io/wiki/Item:Q18884
+Sista's Place,The Muse,3,21,16,0.0882,Ahmed Abdullah | Louis Reyes Rivera | Reggie Workman,https://base.semlab.io/wiki/Item:Q18876,https://base.semlab.io/wiki/Item:Q18894
+Flamingo Lounge,Sista's Place,3,17,21,0.0857,Jo Ann Cheatham | Torrie McCartney | Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18876
+Club La Marchal,The Continental,3,14,25,0.0833,James Spaulding | Kwesi Mensah Wali | Lee Morgan,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18884
+Club La Marchal,The East,3,14,25,0.0833,Freddie Hubbard | James Spaulding | Kwesi Mensah Wali,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18885
+Baby Grand Brooklyn,The East,3,15,25,0.0811,Betty Carter | Jitu Weusi | Randy Weston,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18885
+The East,The Muse,3,25,16,0.0789,Ahmed Abdullah | Reggie Workman | Wade E. Barnes,https://base.semlab.io/wiki/Item:Q18885,https://base.semlab.io/wiki/Item:Q18894
+Jazz 966,Sista's Place,3,23,21,0.0732,Jo Ann Cheatham | Torrie McCartney | Viola Plummer,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18876
+Sista's Place,The Blue Coronet,3,21,25,0.0698,Ahmed Abdullah | Carlos Garnett | James Spaulding,https://base.semlab.io/wiki/Item:Q18876,https://base.semlab.io/wiki/Item:Q18834
+The Continental,The East,3,25,25,0.0638,James Spaulding | Kwesi Mensah Wali | Reggie Workman,https://base.semlab.io/wiki/Item:Q18884,https://base.semlab.io/wiki/Item:Q18885
+Ben's,Paul's,2,2,2,1.0,Edwin Stoute | Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18868
+Art Theater,Franks,2,3,2,0.6667,Frank Edward Weston | Randy Weston,https://base.semlab.io/wiki/Item:Q18829,https://base.semlab.io/wiki/Item:Q23431
+Franks,Trios Restaurant,2,2,3,0.6667,Frank Edward Weston | Randy Weston,https://base.semlab.io/wiki/Item:Q23431,https://base.semlab.io/wiki/Item:Q22243
+Art Theater,Trios Restaurant,2,3,3,0.5,Frank Edward Weston | Randy Weston,https://base.semlab.io/wiki/Item:Q18829,https://base.semlab.io/wiki/Item:Q22243
+Ben's,The Hole (Bridge and Willoughby),2,2,4,0.5,Edwin Stoute | Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18889
+Paul's,The Hole (Bridge and Willoughby),2,2,4,0.5,Edwin Stoute | Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18868,https://base.semlab.io/wiki/Item:Q18889
+K & C Lounge,The Elks Club,2,2,5,0.4,Edwin Stoute | Randy Weston,https://base.semlab.io/wiki/Item:Q18859,https://base.semlab.io/wiki/Item:Q18886
+Town & Country,Willoughby Temple,2,2,5,0.4,Edwin Stoute | Jimmy Morton,https://base.semlab.io/wiki/Item:Q18899,https://base.semlab.io/wiki/Item:Q18910
+Ben's,Sonya Ballroom,2,2,6,0.3333,Edwin Stoute | Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18881
+K & C Lounge,Sonya Ballroom,2,2,6,0.3333,Edwin Stoute | Randy Weston,https://base.semlab.io/wiki/Item:Q18859,https://base.semlab.io/wiki/Item:Q18881
+Paul's,Sonya Ballroom,2,2,6,0.3333,Edwin Stoute | Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18868,https://base.semlab.io/wiki/Item:Q18881
+The Elks Club,Trios Restaurant,2,5,3,0.3333,Randy Weston | Thelonious Monk,https://base.semlab.io/wiki/Item:Q18886,https://base.semlab.io/wiki/Item:Q22243
+Ben's,Club 243,2,2,7,0.2857,Edwin Stoute | Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18844
+Ben's,Moulin Rouge,2,2,7,0.2857,Edwin Stoute | Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18866
+Bickford's Restaurant,It Club,2,4,5,0.2857,Cedar Walton | Freddie Hubbard,https://base.semlab.io/wiki/Item:Q22253,https://base.semlab.io/wiki/Item:Q22465
+Club 243,Paul's,2,7,2,0.2857,Edwin Stoute | Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18868
+K & C Lounge,Verona Café,2,2,7,0.2857,Edwin Stoute | Randy Weston,https://base.semlab.io/wiki/Item:Q18859,https://base.semlab.io/wiki/Item:Q18905
+Moulin Rouge,Paul's,2,7,2,0.2857,Edwin Stoute | Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18866,https://base.semlab.io/wiki/Item:Q18868
+Sonya Ballroom,The Fantasy,2,6,4,0.25,Edwin Stoute | Wynton Kelly,https://base.semlab.io/wiki/Item:Q18881,https://base.semlab.io/wiki/Item:Q18887
+Sonya Ballroom,The Hole (Bridge and Willoughby),2,6,4,0.25,Edwin Stoute | Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18881,https://base.semlab.io/wiki/Item:Q18889
+Town & Country,Turbo Village,2,2,8,0.25,Edwin Stoute | Jimmy Morton,https://base.semlab.io/wiki/Item:Q18899,https://base.semlab.io/wiki/Item:Q18901
+Club 243,The Hole (Bridge and Willoughby),2,7,4,0.2222,Edwin Stoute | Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18889
+Loew's Brevoort Theatre,Town & Country,2,9,2,0.2222,Edwin Stoute | Jimmy Morton,https://base.semlab.io/wiki/Item:Q18862,https://base.semlab.io/wiki/Item:Q18899
+Moulin Rouge,The Hole (Bridge and Willoughby),2,7,4,0.2222,Edwin Stoute | Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18866,https://base.semlab.io/wiki/Item:Q18889
+Pratt Institute,Sugar Hill,2,6,5,0.2222,Jitu Weusi | Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q19101,https://base.semlab.io/wiki/Item:Q18883
+Sonya Ballroom,The Elks Club,2,6,5,0.2222,Edwin Stoute | Randy Weston,https://base.semlab.io/wiki/Item:Q18881,https://base.semlab.io/wiki/Item:Q18886
+The Hole (Bridge and Willoughby),Verona Café,2,4,7,0.2222,Edwin Stoute | Gil Coggins,https://base.semlab.io/wiki/Item:Q18889,https://base.semlab.io/wiki/Item:Q18905
+Arlington Inn,Brownies,2,8,4,0.2,Jo Ann Cheatham | Kwesi Mensah Wali,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18840
+Moulin Rouge,Willoughby Temple,2,7,5,0.2,Edwin Stoute | Miles Davis,https://base.semlab.io/wiki/Item:Q18866,https://base.semlab.io/wiki/Item:Q18910
+The Elks Club,Verona Café,2,5,7,0.2,Edwin Stoute | Randy Weston,https://base.semlab.io/wiki/Item:Q18886,https://base.semlab.io/wiki/Item:Q18905
+The Id,Town & Country,2,10,2,0.2,Edwin Stoute | Jimmy Morton,https://base.semlab.io/wiki/Item:Q18890,https://base.semlab.io/wiki/Item:Q18899
+78 Club,The Elks Club,2,8,5,0.1818,Cecil Payne | Randy Weston,https://base.semlab.io/wiki/Item:Q18827,https://base.semlab.io/wiki/Item:Q18886
+Arlington Inn,Sugar Hill,2,8,5,0.1818,Alma Carroll | Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18883
+Club 243,Sonya Ballroom,2,7,6,0.1818,Edwin Stoute | Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18881
+Loew's Brevoort Theatre,The Fantasy,2,9,4,0.1818,Edwin Stoute | Wynton Kelly,https://base.semlab.io/wiki/Item:Q18862,https://base.semlab.io/wiki/Item:Q18887
+Moulin Rouge,Sonya Ballroom,2,7,6,0.1818,Edwin Stoute | Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18866,https://base.semlab.io/wiki/Item:Q18881
+Sonya Ballroom,Verona Café,2,6,7,0.1818,Edwin Stoute | Randy Weston,https://base.semlab.io/wiki/Item:Q18881,https://base.semlab.io/wiki/Item:Q18905
+Turbo Village,Willoughby Temple,2,8,5,0.1818,Edwin Stoute | Jimmy Morton,https://base.semlab.io/wiki/Item:Q18901,https://base.semlab.io/wiki/Item:Q18910
+Club 243,Moulin Rouge,2,7,7,0.1667,Edwin Stoute | Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18866
+Lincoln Club,Putnam Central,2,2,12,0.1667,Max Roach | Thelonious Monk,https://base.semlab.io/wiki/Item:Q22240,https://base.semlab.io/wiki/Item:Q18871
+Loew's Brevoort Theatre,Sonya Ballroom,2,9,6,0.1538,Edwin Stoute | Wynton Kelly,https://base.semlab.io/wiki/Item:Q18862,https://base.semlab.io/wiki/Item:Q18881
+Moulin Rouge,Turbo Village,2,7,8,0.1538,Edwin Stoute | Tommy Williams,https://base.semlab.io/wiki/Item:Q18866,https://base.semlab.io/wiki/Item:Q18901
+Pumpkin's,Valhal Jazz Pub,2,5,10,0.1538,Keisha St. Joan | Vanessa Rubin,https://base.semlab.io/wiki/Item:Q18870,https://base.semlab.io/wiki/Item:Q18904
+Putnam Central,Trios Restaurant,2,12,3,0.1538,Randy Weston | Thelonious Monk,https://base.semlab.io/wiki/Item:Q18871,https://base.semlab.io/wiki/Item:Q22243
+Sugar Hill,Valhal Jazz Pub,2,5,10,0.1538,Jitu Weusi | Torrie McCartney,https://base.semlab.io/wiki/Item:Q18883,https://base.semlab.io/wiki/Item:Q18904
+The Id,Willoughby Temple,2,10,5,0.1538,Edwin Stoute | Jimmy Morton,https://base.semlab.io/wiki/Item:Q18890,https://base.semlab.io/wiki/Item:Q18910
+Arlington Inn,Turbo Village,2,8,8,0.1429,Harold Valle | Jimmy Morton,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18901
+Loew's Brevoort Theatre,Moulin Rouge,2,9,7,0.1429,Edwin Stoute | Miles Davis,https://base.semlab.io/wiki/Item:Q18862,https://base.semlab.io/wiki/Item:Q18866
+Baby Grand Brooklyn,K & C Lounge,2,15,2,0.1333,Edwin Stoute | Randy Weston,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18859
+Loew's Brevoort Theatre,Turbo Village,2,9,8,0.1333,Edwin Stoute | Jimmy Morton,https://base.semlab.io/wiki/Item:Q18862,https://base.semlab.io/wiki/Item:Q18901
+Putnam Central,The Elks Club,2,12,5,0.1333,Randy Weston | Thelonious Monk,https://base.semlab.io/wiki/Item:Q18871,https://base.semlab.io/wiki/Item:Q18886
+Arlington Inn,The Id,2,8,10,0.125,Jimmy Morton | Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18890
+Arlington Inn,Town Hill,2,8,10,0.125,Harold Valle | Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18900
+Putnam Central,Sonya Ballroom,2,12,6,0.125,Harold Cumberbatch | Randy Weston,https://base.semlab.io/wiki/Item:Q18871,https://base.semlab.io/wiki/Item:Q18881
+The Id,Turbo Village,2,10,8,0.125,Edwin Stoute | Jimmy Morton,https://base.semlab.io/wiki/Item:Q18890,https://base.semlab.io/wiki/Item:Q18901
+Baby Grand Brooklyn,The Fantasy,2,15,4,0.1176,Edwin Stoute | Jitu Weusi,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18887
+Loew's Brevoort Theatre,The Id,2,9,10,0.1176,Edwin Stoute | Jimmy Morton,https://base.semlab.io/wiki/Item:Q18862,https://base.semlab.io/wiki/Item:Q18890
+78 Club,Putnam Central,2,8,12,0.1111,Max Roach | Randy Weston,https://base.semlab.io/wiki/Item:Q18827,https://base.semlab.io/wiki/Item:Q18871
+Baby Grand Brooklyn,Sugar Hill,2,15,5,0.1111,Alma Carroll | Jitu Weusi,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18883
+Baby Grand Brooklyn,The Elks Club,2,15,5,0.1111,Edwin Stoute | Randy Weston,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18886
+Kingston Lounge,Trios Restaurant,2,17,3,0.1111,Randy Weston | Thelonious Monk,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q22243
+The Jazz Spot,Town Hill,2,10,10,0.1111,Harold Valle | Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18891,https://base.semlab.io/wiki/Item:Q18900
+Baby Grand Brooklyn,Pratt Institute,2,15,6,0.1053,Betty Carter | Jitu Weusi,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q19101
+Baby Grand Brooklyn,Sonya Ballroom,2,15,6,0.1053,Edwin Stoute | Randy Weston,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18881
+Brownies,Flamingo Lounge,2,4,17,0.1053,Jo Ann Cheatham | Scoby Stroman,https://base.semlab.io/wiki/Item:Q18840,https://base.semlab.io/wiki/Item:Q18853
+The Muse,Tiffany Lounge,2,16,5,0.1053,Roland Alexander | Wade E. Barnes,https://base.semlab.io/wiki/Item:Q18894,https://base.semlab.io/wiki/Item:Q18896
+Baby Grand Brooklyn,Verona Café,2,15,7,0.1,Edwin Stoute | Randy Weston,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18905
+Flamingo Lounge,Pumpkin's,2,17,5,0.1,Edwin Stoute | Keisha St. Joan,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18870
+Flamingo Lounge,Sugar Hill,2,17,5,0.1,Jo Ann Cheatham | Torrie McCartney,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18883
+Kingston Lounge,The Elks Club,2,17,5,0.1,Randy Weston | Thelonious Monk,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q18886
+Medgar Evers College,The Id,2,12,10,0.1,Jimmy Morton | Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18864,https://base.semlab.io/wiki/Item:Q18890
+Medgar Evers College,Valhal Jazz Pub,2,12,10,0.1,Michael Howard | Torrie McCartney,https://base.semlab.io/wiki/Item:Q18864,https://base.semlab.io/wiki/Item:Q18904
+78 Club,Baby Grand Brooklyn,2,8,15,0.0952,Max Roach | Randy Weston,https://base.semlab.io/wiki/Item:Q18827,https://base.semlab.io/wiki/Item:Q18830
+Baby Grand Brooklyn,Turbo Village,2,15,8,0.0952,Edwin Stoute | Harold Valle,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18901
+Kingston Lounge,Sonya Ballroom,2,17,6,0.0952,Harold Cumberbatch | Randy Weston,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q18881
+Lincoln Club,Tony's Grand Dean,2,2,21,0.0952,Max Roach | Thelonious Monk,https://base.semlab.io/wiki/Item:Q22240,https://base.semlab.io/wiki/Item:Q18898
+Club 243,Flamingo Lounge,2,7,17,0.0909,Edwin Stoute | Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18853
+Club 243,Kingston Lounge,2,7,17,0.0909,Harold Cumberbatch | Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18860
+Flamingo Lounge,Moulin Rouge,2,17,7,0.0909,Edwin Stoute | Scoby Stroman,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18866
+Sista's Place,The Happy Landing,2,21,3,0.0909,Carlos Garnett | James Spaulding,https://base.semlab.io/wiki/Item:Q18876,https://base.semlab.io/wiki/Item:Q18888
+Tony's Grand Dean,Trios Restaurant,2,21,3,0.0909,Randy Weston | Thelonious Monk,https://base.semlab.io/wiki/Item:Q18898,https://base.semlab.io/wiki/Item:Q22243
+Arlington Inn,Flamingo Lounge,2,8,17,0.087,Harold Valle | Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18853
+Arlington Inn,Kingston Lounge,2,8,17,0.087,Jimmy Morton | Thelonious Monk,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18860
+Flamingo Lounge,Turbo Village,2,17,8,0.087,Edwin Stoute | Harold Valle,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18901
+Fort Greene Senior Center,Jazz 966,2,2,23,0.087,Sam Pinn | Torrie McCartney,https://base.semlab.io/wiki/Item:Q23455,https://base.semlab.io/wiki/Item:Q18857
+New Muse,Sista's Place,2,5,21,0.0833,Alex Etienne | Reggie Workman,https://base.semlab.io/wiki/Item:Q22544,https://base.semlab.io/wiki/Item:Q18876
+The Elks Club,Tony's Grand Dean,2,5,21,0.0833,Randy Weston | Thelonious Monk,https://base.semlab.io/wiki/Item:Q18886,https://base.semlab.io/wiki/Item:Q18898
+Tony's Grand Dean,Willoughby Temple,2,21,5,0.0833,Jimmy Morton | Miles Davis,https://base.semlab.io/wiki/Item:Q18898,https://base.semlab.io/wiki/Item:Q18910
+Baby Grand Brooklyn,Putnam Central,2,15,12,0.08,Max Roach | Randy Weston,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18871
+Flamingo Lounge,The Id,2,17,10,0.08,Edwin Stoute | Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18890
+Franks,The East,2,2,25,0.08,Frank Edward Weston | Randy Weston,https://base.semlab.io/wiki/Item:Q23431,https://base.semlab.io/wiki/Item:Q18885
+New World,The Blue Coronet,2,2,25,0.08,"Alfred Habersham-Bey | Richard ""Dickie"" Habersham-Bey",https://base.semlab.io/wiki/Item:Q22307,https://base.semlab.io/wiki/Item:Q18834
+Art Theater,The East,2,3,25,0.0769,Frank Edward Weston | Randy Weston,https://base.semlab.io/wiki/Item:Q18829,https://base.semlab.io/wiki/Item:Q18885
+Jazz 966,Pumpkin's,2,23,5,0.0769,Edwin Stoute | Keisha St. Joan,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18870
+Jazz 966,Sugar Hill,2,23,5,0.0769,Jo Ann Cheatham | Torrie McCartney,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18883
+Jazz 966,The Elks Club,2,23,5,0.0769,Cecil Payne | Edwin Stoute,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18886
+The Blue Coronet,The Happy Landing,2,25,3,0.0769,Carlos Garnett | James Spaulding,https://base.semlab.io/wiki/Item:Q18834,https://base.semlab.io/wiki/Item:Q18888
+The East,The Happy Landing,2,25,3,0.0769,Carlos Garnett | James Spaulding,https://base.semlab.io/wiki/Item:Q18885,https://base.semlab.io/wiki/Item:Q18888
+The East,Trios Restaurant,2,25,3,0.0769,Frank Edward Weston | Randy Weston,https://base.semlab.io/wiki/Item:Q18885,https://base.semlab.io/wiki/Item:Q22243
+Arlington Inn,Sista's Place,2,8,21,0.0741,Alma Carroll | Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18876
+Arlington Inn,Tony's Grand Dean,2,8,21,0.0741,Jimmy Morton | Thelonious Monk,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18898
+Brooklyn Apollo,The Blue Coronet,2,4,25,0.0741,Jitu Weusi | Mighty Sparrow,https://base.semlab.io/wiki/Item:Q18838,https://base.semlab.io/wiki/Item:Q18834
+Jazz 966,Moulin Rouge,2,23,7,0.0714,Edwin Stoute | Scoby Stroman,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18866
+Loew's Brevoort Theatre,Tony's Grand Dean,2,9,21,0.0714,Jimmy Morton | Miles Davis,https://base.semlab.io/wiki/Item:Q18862,https://base.semlab.io/wiki/Item:Q18898
+Arlington Inn,Jazz 966,2,8,23,0.069,Harold Valle | Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18857
+Jazz 966,Turbo Village,2,23,8,0.069,Edwin Stoute | Harold Valle,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18901
+Pratt Institute,The East,2,6,25,0.069,Betty Carter | Jitu Weusi,https://base.semlab.io/wiki/Item:Q19101,https://base.semlab.io/wiki/Item:Q18885
+Sista's Place,Town Hill,2,21,10,0.069,Jo Ann Cheatham | Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18876,https://base.semlab.io/wiki/Item:Q18900
+Smuckers,The East,2,6,25,0.069,McCoy Tyner | Sun Ra,https://base.semlab.io/wiki/Item:Q18879,https://base.semlab.io/wiki/Item:Q18885
+Sonya Ballroom,The Blue Coronet,2,6,25,0.069,Edwin Stoute | Wynton Kelly,https://base.semlab.io/wiki/Item:Q18881,https://base.semlab.io/wiki/Item:Q18834
+The Id,Tony's Grand Dean,2,10,21,0.069,Jimmy Morton | Kenny Dorham,https://base.semlab.io/wiki/Item:Q18890,https://base.semlab.io/wiki/Item:Q18898
+Baby Grand Brooklyn,Flamingo Lounge,2,15,17,0.0667,Edwin Stoute | Harold Valle,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18853
+Baby Grand Brooklyn,Kingston Lounge,2,15,17,0.0667,Randy Weston | Sam Pinn,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18860
+Moulin Rouge,The Blue Coronet,2,7,25,0.0667,Edwin Stoute | Miles Davis,https://base.semlab.io/wiki/Item:Q18866,https://base.semlab.io/wiki/Item:Q18834
+Jazz 966,The Id,2,23,10,0.0645,Edwin Stoute | Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18890
+Jazz 966,The Jazz Spot,2,23,10,0.0645,Bob Cunningham | Harold Valle,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18891
+Jazz 966,Town Hill,2,23,10,0.0645,Harold Valle | Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18900
+Jazz 966,Valhal Jazz Pub,2,23,10,0.0645,Keisha St. Joan | Torrie McCartney,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18904
+Medgar Evers College,Tony's Grand Dean,2,12,21,0.0645,Jimmy Morton | Willie Jones,https://base.semlab.io/wiki/Item:Q18864,https://base.semlab.io/wiki/Item:Q18898
+The Id,Up Over Jazz Café,2,10,23,0.0645,Cedar Walton | Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18890,https://base.semlab.io/wiki/Item:Q18903
+Jazz 966,Medgar Evers College,2,23,12,0.0606,Jo Ann Cheatham | Torrie McCartney,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18864
+The East,Valhal Jazz Pub,2,25,10,0.0606,Jitu Weusi | Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18885,https://base.semlab.io/wiki/Item:Q18904
+Baby Grand Brooklyn,Sista's Place,2,15,21,0.0588,Alma Carroll | Viola Plummer,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18876
+Baby Grand Brooklyn,Tony's Grand Dean,2,15,21,0.0588,Max Roach | Randy Weston,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18898
+Baby Grand Brooklyn,The Blue Coronet,2,15,25,0.0526,Edwin Stoute | Jitu Weusi,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18834
+Flamingo Lounge,Up Over Jazz Café,2,17,23,0.0526,Jo Ann Cheatham | Keisha St. Joan,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18903
+Flamingo Lounge,The East,2,17,25,0.05,Doug Carn | Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18885
+Kingston Lounge,The East,2,17,25,0.05,Randy Weston | Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q18885
+Jazz 966,Up Over Jazz Café,2,23,23,0.0455,Jo Ann Cheatham | Keisha St. Joan,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18903
+Sista's Place,The Continental,2,21,25,0.0455,James Spaulding | Reggie Workman,https://base.semlab.io/wiki/Item:Q18876,https://base.semlab.io/wiki/Item:Q18884
+The Blue Coronet,Tony's Grand Dean,2,25,21,0.0455,Miles Davis | Paul Chambers,https://base.semlab.io/wiki/Item:Q18834,https://base.semlab.io/wiki/Item:Q18898
+The Continental,Up Over Jazz Café,2,25,23,0.0435,James Spaulding | Reggie Workman,https://base.semlab.io/wiki/Item:Q18884,https://base.semlab.io/wiki/Item:Q18903
+The East,Up Over Jazz Café,2,25,23,0.0435,James Spaulding | Reggie Workman,https://base.semlab.io/wiki/Item:Q18885,https://base.semlab.io/wiki/Item:Q18903
+The Coronet,Uptown Lounge,1,1,1,1.0,"Richard ""Dickie"" Habersham-Bey",https://base.semlab.io/wiki/Item:Q22327,https://base.semlab.io/wiki/Item:Q22308
+Unnamed music venue (Franklin Avenue/near St. John's Place),Unnamed music venue (Vanderbilt Avenue/Gates Avenue),1,1,1,1.0,Rector Bailey,https://base.semlab.io/wiki/Item:Q23207,https://base.semlab.io/wiki/Item:Q23442
+Brooklyn Public Library,Raintrees,1,2,1,0.5,Wade E. Barnes,https://base.semlab.io/wiki/Item:Q22273,https://base.semlab.io/wiki/Item:Q19683
+Franks,Unnamed music venue (Gates Avenue/Nostrand Avenue),1,2,1,0.5,Randy Weston,https://base.semlab.io/wiki/Item:Q23431,https://base.semlab.io/wiki/Item:Q21583
+K & C Lounge,Unnamed music venue (Gates Avenue/Nostrand Avenue),1,2,1,0.5,Randy Weston,https://base.semlab.io/wiki/Item:Q18859,https://base.semlab.io/wiki/Item:Q21583
+New World,The Coronet,1,2,1,0.5,"Richard ""Dickie"" Habersham-Bey",https://base.semlab.io/wiki/Item:Q22307,https://base.semlab.io/wiki/Item:Q22327
+New World,Uptown Lounge,1,2,1,0.5,"Richard ""Dickie"" Habersham-Bey",https://base.semlab.io/wiki/Item:Q22307,https://base.semlab.io/wiki/Item:Q22308
+Raintrees,Unnamed music venue (Farrragut Street/Nostrand Avenue),1,1,2,0.5,Wade E. Barnes,https://base.semlab.io/wiki/Item:Q19683,https://base.semlab.io/wiki/Item:Q19682
+Art Theater,Unnamed music venue (Gates Avenue/Nostrand Avenue),1,3,1,0.3333,Randy Weston,https://base.semlab.io/wiki/Item:Q18829,https://base.semlab.io/wiki/Item:Q21583
+Ben's,K & C Lounge,1,2,2,0.3333,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18859
+Ben's,Town & Country,1,2,2,0.3333,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18899
+Brooklyn Public Library,Unnamed music venue (Farrragut Street/Nostrand Avenue),1,2,2,0.3333,Wade E. Barnes,https://base.semlab.io/wiki/Item:Q22273,https://base.semlab.io/wiki/Item:Q19682
+Concord Baptist Church,Lincoln Club,1,2,2,0.3333,Max Roach,https://base.semlab.io/wiki/Item:Q22272,https://base.semlab.io/wiki/Item:Q22240
+Franks,K & C Lounge,1,2,2,0.3333,Randy Weston,https://base.semlab.io/wiki/Item:Q23431,https://base.semlab.io/wiki/Item:Q18859
+K & C Lounge,Paul's,1,2,2,0.3333,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18859,https://base.semlab.io/wiki/Item:Q18868
+K & C Lounge,Town & Country,1,2,2,0.3333,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18859,https://base.semlab.io/wiki/Item:Q18899
+Paul's,Town & Country,1,2,2,0.3333,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18868,https://base.semlab.io/wiki/Item:Q18899
+Trios Restaurant,Unnamed music venue (Gates Avenue/Nostrand Avenue),1,3,1,0.3333,Randy Weston,https://base.semlab.io/wiki/Item:Q22243,https://base.semlab.io/wiki/Item:Q21583
+Art Theater,K & C Lounge,1,3,2,0.25,Randy Weston,https://base.semlab.io/wiki/Item:Q18829,https://base.semlab.io/wiki/Item:Q18859
+Ben's,Carroll Bar,1,2,3,0.25,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18842
+Carroll Bar,K & C Lounge,1,3,2,0.25,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18842,https://base.semlab.io/wiki/Item:Q18859
+Carroll Bar,Paul's,1,3,2,0.25,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18842,https://base.semlab.io/wiki/Item:Q18868
+Carroll Bar,Town & Country,1,3,2,0.25,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18842,https://base.semlab.io/wiki/Item:Q18899
+K & C Lounge,Trios Restaurant,1,2,3,0.25,Randy Weston,https://base.semlab.io/wiki/Item:Q18859,https://base.semlab.io/wiki/Item:Q22243
+Lincoln Club,Trios Restaurant,1,2,3,0.25,Thelonious Monk,https://base.semlab.io/wiki/Item:Q22240,https://base.semlab.io/wiki/Item:Q22243
+Parlor Jazz,Solomon’s Porch,1,1,4,0.25,Vanessa Rubin,https://base.semlab.io/wiki/Item:Q22562,https://base.semlab.io/wiki/Item:Q18880
+Raintrees,Slave Theater,1,1,4,0.25,Wade E. Barnes,https://base.semlab.io/wiki/Item:Q19683,https://base.semlab.io/wiki/Item:Q18877
+Slave Theater,The Regent,1,4,1,0.25,John Phillips,https://base.semlab.io/wiki/Item:Q18877,https://base.semlab.io/wiki/Item:Q21581
+Ben's,Slave Theater,1,2,4,0.2,Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18877
+Ben's,The Fantasy,1,2,4,0.2,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18887
+Brooklyn Public Library,Slave Theater,1,2,4,0.2,Wade E. Barnes,https://base.semlab.io/wiki/Item:Q22273,https://base.semlab.io/wiki/Item:Q18877
+Brownies,Fort Greene Senior Center,1,4,2,0.2,Sam Pinn,https://base.semlab.io/wiki/Item:Q18840,https://base.semlab.io/wiki/Item:Q23455
+Fox Theatre,The Centaur,1,2,4,0.2,Wynton Kelly,https://base.semlab.io/wiki/Item:Q22463,https://base.semlab.io/wiki/Item:Q22435
+Fox Theatre,The Fantasy,1,2,4,0.2,Wynton Kelly,https://base.semlab.io/wiki/Item:Q22463,https://base.semlab.io/wiki/Item:Q18887
+K & C Lounge,The Fantasy,1,2,4,0.2,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18859,https://base.semlab.io/wiki/Item:Q18887
+K & C Lounge,The Hole (Bridge and Willoughby),1,2,4,0.2,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18859,https://base.semlab.io/wiki/Item:Q18889
+Parlor Jazz,Pumpkin's,1,1,5,0.2,Vanessa Rubin,https://base.semlab.io/wiki/Item:Q22562,https://base.semlab.io/wiki/Item:Q18870
+Paul's,Slave Theater,1,2,4,0.2,Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18868,https://base.semlab.io/wiki/Item:Q18877
+Paul's,The Fantasy,1,2,4,0.2,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18868,https://base.semlab.io/wiki/Item:Q18887
+Raintrees,Tiffany Lounge,1,1,5,0.2,Wade E. Barnes,https://base.semlab.io/wiki/Item:Q19683,https://base.semlab.io/wiki/Item:Q18896
+Slave Theater,Unnamed music venue (Farrragut Street/Nostrand Avenue),1,4,2,0.2,Wade E. Barnes,https://base.semlab.io/wiki/Item:Q18877,https://base.semlab.io/wiki/Item:Q19682
+The Elks Club,Unnamed music venue (Gates Avenue/Nostrand Avenue),1,5,1,0.2,Randy Weston,https://base.semlab.io/wiki/Item:Q18886,https://base.semlab.io/wiki/Item:Q21583
+The Fantasy,Town & Country,1,4,2,0.2,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18887,https://base.semlab.io/wiki/Item:Q18899
+The Hole (Bridge and Willoughby),Town & Country,1,4,2,0.2,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18889,https://base.semlab.io/wiki/Item:Q18899
+Ben's,Pumpkin's,1,2,5,0.1667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18870
+Ben's,The Elks Club,1,2,5,0.1667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18886
+Ben's,Willoughby Temple,1,2,5,0.1667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18910
+Brooklyn Apollo,Tip Top Inn,1,4,3,0.1667,Jitu Weusi,https://base.semlab.io/wiki/Item:Q18838,https://base.semlab.io/wiki/Item:Q18897
+Brooklyn Public Library,Tiffany Lounge,1,2,5,0.1667,Wade E. Barnes,https://base.semlab.io/wiki/Item:Q22273,https://base.semlab.io/wiki/Item:Q18896
+Carroll Bar,The Fantasy,1,3,4,0.1667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18842,https://base.semlab.io/wiki/Item:Q18887
+Carroll Bar,The Hole (Bridge and Willoughby),1,3,4,0.1667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18842,https://base.semlab.io/wiki/Item:Q18889
+Fort Greene Senior Center,Sugar Hill,1,2,5,0.1667,Torrie McCartney,https://base.semlab.io/wiki/Item:Q23455,https://base.semlab.io/wiki/Item:Q18883
+Franks,The Elks Club,1,2,5,0.1667,Randy Weston,https://base.semlab.io/wiki/Item:Q23431,https://base.semlab.io/wiki/Item:Q18886
+K & C Lounge,Pumpkin's,1,2,5,0.1667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18859,https://base.semlab.io/wiki/Item:Q18870
+K & C Lounge,Willoughby Temple,1,2,5,0.1667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18859,https://base.semlab.io/wiki/Item:Q18910
+Lincoln Club,The Elks Club,1,2,5,0.1667,Thelonious Monk,https://base.semlab.io/wiki/Item:Q22240,https://base.semlab.io/wiki/Item:Q18886
+Paul's,Pumpkin's,1,2,5,0.1667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18868,https://base.semlab.io/wiki/Item:Q18870
+Paul's,The Elks Club,1,2,5,0.1667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18868,https://base.semlab.io/wiki/Item:Q18886
+Paul's,Willoughby Temple,1,2,5,0.1667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18868,https://base.semlab.io/wiki/Item:Q18910
+Pumpkin's,Town & Country,1,5,2,0.1667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18870,https://base.semlab.io/wiki/Item:Q18899
+Sonya Ballroom,Unnamed music venue (Gates Avenue/Nostrand Avenue),1,6,1,0.1667,Randy Weston,https://base.semlab.io/wiki/Item:Q18881,https://base.semlab.io/wiki/Item:Q21583
+The Elks Club,Town & Country,1,5,2,0.1667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18886,https://base.semlab.io/wiki/Item:Q18899
+The Fantasy,Tip Top Inn,1,4,3,0.1667,Jitu Weusi,https://base.semlab.io/wiki/Item:Q18887,https://base.semlab.io/wiki/Item:Q18897
+Tiffany Lounge,Unnamed music venue (Farrragut Street/Nostrand Avenue),1,5,2,0.1667,Wade E. Barnes,https://base.semlab.io/wiki/Item:Q18896,https://base.semlab.io/wiki/Item:Q19682
+Art Theater,The Elks Club,1,3,5,0.1429,Randy Weston,https://base.semlab.io/wiki/Item:Q18829,https://base.semlab.io/wiki/Item:Q18886
+Bickford's Restaurant,Brooklyn Apollo,1,4,4,0.1429,Joe Long,https://base.semlab.io/wiki/Item:Q22253,https://base.semlab.io/wiki/Item:Q18838
+Brooklyn Apollo,The Fantasy,1,4,4,0.1429,Jitu Weusi,https://base.semlab.io/wiki/Item:Q18838,https://base.semlab.io/wiki/Item:Q18887
+Carroll Bar,Pumpkin's,1,3,5,0.1429,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18842,https://base.semlab.io/wiki/Item:Q18870
+Carroll Bar,The Elks Club,1,3,5,0.1429,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18842,https://base.semlab.io/wiki/Item:Q18886
+Carroll Bar,Willoughby Temple,1,3,5,0.1429,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18842,https://base.semlab.io/wiki/Item:Q18910
+Club 243,Siloam Presbyterian Church,1,7,1,0.1429,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q23419
+Fox Theatre,Sonya Ballroom,1,2,6,0.1429,Wynton Kelly,https://base.semlab.io/wiki/Item:Q22463,https://base.semlab.io/wiki/Item:Q18881
+Franks,Sonya Ballroom,1,2,6,0.1429,Randy Weston,https://base.semlab.io/wiki/Item:Q23431,https://base.semlab.io/wiki/Item:Q18881
+Slave Theater,The Hole (Bridge and Willoughby),1,4,4,0.1429,Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18877,https://base.semlab.io/wiki/Item:Q18889
+Sonya Ballroom,Town & Country,1,6,2,0.1429,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18881,https://base.semlab.io/wiki/Item:Q18899
+Sugar Hill,Tip Top Inn,1,5,3,0.1429,Jitu Weusi,https://base.semlab.io/wiki/Item:Q18883,https://base.semlab.io/wiki/Item:Q18897
+The Centaur,The Fantasy,1,4,4,0.1429,Wynton Kelly,https://base.semlab.io/wiki/Item:Q22435,https://base.semlab.io/wiki/Item:Q18887
+The Fantasy,The Hole (Bridge and Willoughby),1,4,4,0.1429,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18887,https://base.semlab.io/wiki/Item:Q18889
+Unnamed music venue (Gates Avenue/Nostrand Avenue),Verona Café,1,1,7,0.1429,Randy Weston,https://base.semlab.io/wiki/Item:Q21583,https://base.semlab.io/wiki/Item:Q18905
+78 Club,Unnamed music venue (Gates Avenue/Nostrand Avenue),1,8,1,0.125,Randy Weston,https://base.semlab.io/wiki/Item:Q18827,https://base.semlab.io/wiki/Item:Q21583
+Art Theater,Sonya Ballroom,1,3,6,0.125,Randy Weston,https://base.semlab.io/wiki/Item:Q18829,https://base.semlab.io/wiki/Item:Q18881
+Ben's,Verona Café,1,2,7,0.125,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18905
+Brooklyn Apollo,Sugar Hill,1,4,5,0.125,Jitu Weusi,https://base.semlab.io/wiki/Item:Q18838,https://base.semlab.io/wiki/Item:Q18883
+Brownies,Sugar Hill,1,4,5,0.125,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18840,https://base.semlab.io/wiki/Item:Q18883
+Carroll Bar,Sonya Ballroom,1,3,6,0.125,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18842,https://base.semlab.io/wiki/Item:Q18881
+Club 243,K & C Lounge,1,7,2,0.125,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18859
+Club 243,Town & Country,1,7,2,0.125,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18899
+Franks,Verona Café,1,2,7,0.125,Randy Weston,https://base.semlab.io/wiki/Item:Q23431,https://base.semlab.io/wiki/Item:Q18905
+K & C Lounge,Moulin Rouge,1,2,7,0.125,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18859,https://base.semlab.io/wiki/Item:Q18866
+Moulin Rouge,Town & Country,1,7,2,0.125,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18866,https://base.semlab.io/wiki/Item:Q18899
+Paul's,Verona Café,1,2,7,0.125,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18868,https://base.semlab.io/wiki/Item:Q18905
+Pratt Institute,Tip Top Inn,1,6,3,0.125,Jitu Weusi,https://base.semlab.io/wiki/Item:Q19101,https://base.semlab.io/wiki/Item:Q18897
+Pumpkin's,Solomon’s Porch,1,5,4,0.125,Vanessa Rubin,https://base.semlab.io/wiki/Item:Q18870,https://base.semlab.io/wiki/Item:Q18880
+Pumpkin's,The Fantasy,1,5,4,0.125,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18870,https://base.semlab.io/wiki/Item:Q18887
+Pumpkin's,The Hole (Bridge and Willoughby),1,5,4,0.125,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18870,https://base.semlab.io/wiki/Item:Q18889
+Slave Theater,Tiffany Lounge,1,4,5,0.125,Wade E. Barnes,https://base.semlab.io/wiki/Item:Q18877,https://base.semlab.io/wiki/Item:Q18896
+Sonya Ballroom,Trios Restaurant,1,6,3,0.125,Randy Weston,https://base.semlab.io/wiki/Item:Q18881,https://base.semlab.io/wiki/Item:Q22243
+Sugar Hill,The Fantasy,1,5,4,0.125,Jitu Weusi,https://base.semlab.io/wiki/Item:Q18883,https://base.semlab.io/wiki/Item:Q18887
+The Elks Club,The Fantasy,1,5,4,0.125,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18886,https://base.semlab.io/wiki/Item:Q18887
+The Elks Club,The Hole (Bridge and Willoughby),1,5,4,0.125,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18886,https://base.semlab.io/wiki/Item:Q18889
+The Fantasy,Willoughby Temple,1,4,5,0.125,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18887,https://base.semlab.io/wiki/Item:Q18910
+The Hole (Bridge and Willoughby),Willoughby Temple,1,4,5,0.125,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18889,https://base.semlab.io/wiki/Item:Q18910
+Town & Country,Verona Café,1,2,7,0.125,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18899,https://base.semlab.io/wiki/Item:Q18905
+78 Club,Concord Baptist Church,1,8,2,0.1111,Max Roach,https://base.semlab.io/wiki/Item:Q18827,https://base.semlab.io/wiki/Item:Q22272
+78 Club,Franks,1,8,2,0.1111,Randy Weston,https://base.semlab.io/wiki/Item:Q18827,https://base.semlab.io/wiki/Item:Q23431
+78 Club,K & C Lounge,1,8,2,0.1111,Randy Weston,https://base.semlab.io/wiki/Item:Q18827,https://base.semlab.io/wiki/Item:Q18859
+78 Club,Lincoln Club,1,8,2,0.1111,Max Roach,https://base.semlab.io/wiki/Item:Q18827,https://base.semlab.io/wiki/Item:Q22240
+Arlington Inn,Lincoln Club,1,8,2,0.1111,Thelonious Monk,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q22240
+Arlington Inn,Town & Country,1,8,2,0.1111,Jimmy Morton,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18899
+Art Theater,Verona Café,1,3,7,0.1111,Randy Weston,https://base.semlab.io/wiki/Item:Q18829,https://base.semlab.io/wiki/Item:Q18905
+Ben's,Turbo Village,1,2,8,0.1111,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18901
+Brooklyn Apollo,Pratt Institute,1,4,6,0.1111,Jitu Weusi,https://base.semlab.io/wiki/Item:Q18838,https://base.semlab.io/wiki/Item:Q19101
+Brooklyn Paramount Theater,It Club,1,5,5,0.1111,Donald Sangster,https://base.semlab.io/wiki/Item:Q22479,https://base.semlab.io/wiki/Item:Q22465
+Brownies,Pratt Institute,1,4,6,0.1111,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18840,https://base.semlab.io/wiki/Item:Q19101
+Carroll Bar,Club 243,1,3,7,0.1111,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18842,https://base.semlab.io/wiki/Item:Q18844
+Carroll Bar,Moulin Rouge,1,3,7,0.1111,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18842,https://base.semlab.io/wiki/Item:Q18866
+Carroll Bar,Verona Café,1,3,7,0.1111,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18842,https://base.semlab.io/wiki/Item:Q18905
+K & C Lounge,Turbo Village,1,2,8,0.1111,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18859,https://base.semlab.io/wiki/Item:Q18901
+Paul's,Turbo Village,1,2,8,0.1111,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18868,https://base.semlab.io/wiki/Item:Q18901
+Pratt Institute,The Fantasy,1,6,4,0.1111,Jitu Weusi,https://base.semlab.io/wiki/Item:Q19101,https://base.semlab.io/wiki/Item:Q18887
+Pumpkin's,The Elks Club,1,5,5,0.1111,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18870,https://base.semlab.io/wiki/Item:Q18886
+Pumpkin's,Willoughby Temple,1,5,5,0.1111,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18870,https://base.semlab.io/wiki/Item:Q18910
+Slave Theater,Sonya Ballroom,1,4,6,0.1111,Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18877,https://base.semlab.io/wiki/Item:Q18881
+Sonya Ballroom,The Centaur,1,6,4,0.1111,Wynton Kelly,https://base.semlab.io/wiki/Item:Q18881,https://base.semlab.io/wiki/Item:Q22435
+The Elks Club,Willoughby Temple,1,5,5,0.1111,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18886,https://base.semlab.io/wiki/Item:Q18910
+Trios Restaurant,Verona Café,1,3,7,0.1111,Randy Weston,https://base.semlab.io/wiki/Item:Q22243,https://base.semlab.io/wiki/Item:Q18905
+78 Club,Art Theater,1,8,3,0.1,Randy Weston,https://base.semlab.io/wiki/Item:Q18827,https://base.semlab.io/wiki/Item:Q18829
+78 Club,Trios Restaurant,1,8,3,0.1,Randy Weston,https://base.semlab.io/wiki/Item:Q18827,https://base.semlab.io/wiki/Item:Q22243
+Arlington Inn,Trios Restaurant,1,8,3,0.1,Thelonious Monk,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q22243
+Ben's,Loew's Brevoort Theatre,1,2,9,0.1,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18862
+Brooklyn Paramount Theater,Smuckers,1,5,6,0.1,Harold Valle,https://base.semlab.io/wiki/Item:Q22479,https://base.semlab.io/wiki/Item:Q18879
+Brownies,Moulin Rouge,1,4,7,0.1,Scoby Stroman,https://base.semlab.io/wiki/Item:Q18840,https://base.semlab.io/wiki/Item:Q18866
+Carroll Bar,Turbo Village,1,3,8,0.1,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18842,https://base.semlab.io/wiki/Item:Q18901
+Club 243,Slave Theater,1,7,4,0.1,Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18877
+Club 243,The Fantasy,1,7,4,0.1,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18887
+Fox Theatre,Loew's Brevoort Theatre,1,2,9,0.1,Wynton Kelly,https://base.semlab.io/wiki/Item:Q22463,https://base.semlab.io/wiki/Item:Q18862
+K & C Lounge,Loew's Brevoort Theatre,1,2,9,0.1,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18859,https://base.semlab.io/wiki/Item:Q18862
+Loew's Brevoort Theatre,Paul's,1,9,2,0.1,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18862,https://base.semlab.io/wiki/Item:Q18868
+Moulin Rouge,Slave Theater,1,7,4,0.1,Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18866,https://base.semlab.io/wiki/Item:Q18877
+Moulin Rouge,The Fantasy,1,7,4,0.1,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18866,https://base.semlab.io/wiki/Item:Q18887
+Parlor Jazz,Valhal Jazz Pub,1,1,10,0.1,Vanessa Rubin,https://base.semlab.io/wiki/Item:Q22562,https://base.semlab.io/wiki/Item:Q18904
+Pumpkin's,Sonya Ballroom,1,5,6,0.1,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18870,https://base.semlab.io/wiki/Item:Q18881
+Siloam Presbyterian Church,The Jazz Spot,1,1,10,0.1,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q23419,https://base.semlab.io/wiki/Item:Q18891
+Siloam Presbyterian Church,Town Hill,1,1,10,0.1,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q23419,https://base.semlab.io/wiki/Item:Q18900
+Siloam Presbyterian Church,Valhal Jazz Pub,1,1,10,0.1,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q23419,https://base.semlab.io/wiki/Item:Q18904
+Sonya Ballroom,Willoughby Temple,1,6,5,0.1,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18881,https://base.semlab.io/wiki/Item:Q18910
+The Fantasy,Verona Café,1,4,7,0.1,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18887,https://base.semlab.io/wiki/Item:Q18905
+Ben's,The Id,1,2,10,0.0909,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18890
+Bickford's Restaurant,Turbo Village,1,4,8,0.0909,Freddie Hubbard,https://base.semlab.io/wiki/Item:Q22253,https://base.semlab.io/wiki/Item:Q18901
+Carroll Bar,Loew's Brevoort Theatre,1,3,9,0.0909,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18842,https://base.semlab.io/wiki/Item:Q18862
+Club 243,Pumpkin's,1,7,5,0.0909,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18870
+Club 243,The Elks Club,1,7,5,0.0909,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18886
+Club 243,Willoughby Temple,1,7,5,0.0909,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18910
+Club Monterey,The Jazz Spot,1,2,10,0.0909,Michael Howard,https://base.semlab.io/wiki/Item:Q26312,https://base.semlab.io/wiki/Item:Q18891
+Club Monterey,Valhal Jazz Pub,1,2,10,0.0909,Michael Howard,https://base.semlab.io/wiki/Item:Q26312,https://base.semlab.io/wiki/Item:Q18904
+Fort Greene Senior Center,Valhal Jazz Pub,1,2,10,0.0909,Torrie McCartney,https://base.semlab.io/wiki/Item:Q23455,https://base.semlab.io/wiki/Item:Q18904
+K & C Lounge,The Id,1,2,10,0.0909,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18859,https://base.semlab.io/wiki/Item:Q18890
+Moulin Rouge,Pumpkin's,1,7,5,0.0909,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18866,https://base.semlab.io/wiki/Item:Q18870
+Moulin Rouge,The Elks Club,1,7,5,0.0909,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18866,https://base.semlab.io/wiki/Item:Q18886
+Paul's,The Id,1,2,10,0.0909,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18868,https://base.semlab.io/wiki/Item:Q18890
+Pumpkin's,Verona Café,1,5,7,0.0909,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18870,https://base.semlab.io/wiki/Item:Q18905
+The Fantasy,Turbo Village,1,4,8,0.0909,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18887,https://base.semlab.io/wiki/Item:Q18901
+The Hole (Bridge and Willoughby),Turbo Village,1,4,8,0.0909,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18889,https://base.semlab.io/wiki/Item:Q18901
+Verona Café,Willoughby Temple,1,7,5,0.0909,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18905,https://base.semlab.io/wiki/Item:Q18910
+78 Club,Brooklyn Paramount Theater,1,8,5,0.0833,Charlie Parker,https://base.semlab.io/wiki/Item:Q18827,https://base.semlab.io/wiki/Item:Q22479
+Arlington Inn,Brooklyn Paramount Theater,1,8,5,0.0833,Harold Valle,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q22479
+Arlington Inn,The Elks Club,1,8,5,0.0833,Thelonious Monk,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18886
+Arlington Inn,Willoughby Temple,1,8,5,0.0833,Jimmy Morton,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18910
+Brooklyn Paramount Theater,Turbo Village,1,5,8,0.0833,Harold Valle,https://base.semlab.io/wiki/Item:Q22479,https://base.semlab.io/wiki/Item:Q18901
+Carroll Bar,The Id,1,3,10,0.0833,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18842,https://base.semlab.io/wiki/Item:Q18890
+It Club,Turbo Village,1,5,8,0.0833,Freddie Hubbard,https://base.semlab.io/wiki/Item:Q22465,https://base.semlab.io/wiki/Item:Q18901
+Loew's Brevoort Theatre,The Centaur,1,9,4,0.0833,Wynton Kelly,https://base.semlab.io/wiki/Item:Q18862,https://base.semlab.io/wiki/Item:Q22435
+Loew's Brevoort Theatre,The Hole (Bridge and Willoughby),1,9,4,0.0833,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18862,https://base.semlab.io/wiki/Item:Q18889
+Pumpkin's,Turbo Village,1,5,8,0.0833,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18870,https://base.semlab.io/wiki/Item:Q18901
+Putnam Central,Unnamed music venue (Gates Avenue/Nostrand Avenue),1,12,1,0.0833,Randy Weston,https://base.semlab.io/wiki/Item:Q18871,https://base.semlab.io/wiki/Item:Q21583
+The Elks Club,Turbo Village,1,5,8,0.0833,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18886,https://base.semlab.io/wiki/Item:Q18901
+Tip Top Inn,Valhal Jazz Pub,1,3,10,0.0833,Jitu Weusi,https://base.semlab.io/wiki/Item:Q18897,https://base.semlab.io/wiki/Item:Q18904
+78 Club,Sonya Ballroom,1,8,6,0.0769,Randy Weston,https://base.semlab.io/wiki/Item:Q18827,https://base.semlab.io/wiki/Item:Q18881
+Arlington Inn,Pratt Institute,1,8,6,0.0769,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q19101
+Arlington Inn,Smuckers,1,8,6,0.0769,Harold Valle,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18879
+Ben's,Putnam Central,1,2,12,0.0769,Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18871
+Bickford's Restaurant,The Id,1,4,10,0.0769,Cedar Walton,https://base.semlab.io/wiki/Item:Q22253,https://base.semlab.io/wiki/Item:Q18890
+Brooklyn Apollo,Valhal Jazz Pub,1,4,10,0.0769,Jitu Weusi,https://base.semlab.io/wiki/Item:Q18838,https://base.semlab.io/wiki/Item:Q18904
+Brownies,The Id,1,4,10,0.0769,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18840,https://base.semlab.io/wiki/Item:Q18890
+Brownies,Town Hill,1,4,10,0.0769,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18840,https://base.semlab.io/wiki/Item:Q18900
+Club 243,Verona Café,1,7,7,0.0769,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18905
+Club Monterey,Medgar Evers College,1,2,12,0.0769,Michael Howard,https://base.semlab.io/wiki/Item:Q26312,https://base.semlab.io/wiki/Item:Q18864
+Concord Baptist Church,Putnam Central,1,2,12,0.0769,Max Roach,https://base.semlab.io/wiki/Item:Q22272,https://base.semlab.io/wiki/Item:Q18871
+Fort Greene Senior Center,Medgar Evers College,1,2,12,0.0769,Torrie McCartney,https://base.semlab.io/wiki/Item:Q23455,https://base.semlab.io/wiki/Item:Q18864
+Franks,Putnam Central,1,2,12,0.0769,Randy Weston,https://base.semlab.io/wiki/Item:Q23431,https://base.semlab.io/wiki/Item:Q18871
+K & C Lounge,Putnam Central,1,2,12,0.0769,Randy Weston,https://base.semlab.io/wiki/Item:Q18859,https://base.semlab.io/wiki/Item:Q18871
+Loew's Brevoort Theatre,Pumpkin's,1,9,5,0.0769,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18862,https://base.semlab.io/wiki/Item:Q18870
+Loew's Brevoort Theatre,The Elks Club,1,9,5,0.0769,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18862,https://base.semlab.io/wiki/Item:Q18886
+Medgar Evers College,Town & Country,1,12,2,0.0769,Jimmy Morton,https://base.semlab.io/wiki/Item:Q18864,https://base.semlab.io/wiki/Item:Q18899
+Moulin Rouge,Verona Café,1,7,7,0.0769,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18866,https://base.semlab.io/wiki/Item:Q18905
+Paul's,Putnam Central,1,2,12,0.0769,Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18868,https://base.semlab.io/wiki/Item:Q18871
+Smuckers,Turbo Village,1,6,8,0.0769,Harold Valle,https://base.semlab.io/wiki/Item:Q18879,https://base.semlab.io/wiki/Item:Q18901
+Solomon’s Porch,Valhal Jazz Pub,1,4,10,0.0769,Vanessa Rubin,https://base.semlab.io/wiki/Item:Q18880,https://base.semlab.io/wiki/Item:Q18904
+Sonya Ballroom,Turbo Village,1,6,8,0.0769,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18881,https://base.semlab.io/wiki/Item:Q18901
+The Fantasy,The Id,1,4,10,0.0769,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18887,https://base.semlab.io/wiki/Item:Q18890
+The Fantasy,Valhal Jazz Pub,1,4,10,0.0769,Jitu Weusi,https://base.semlab.io/wiki/Item:Q18887,https://base.semlab.io/wiki/Item:Q18904
+The Hole (Bridge and Willoughby),The Id,1,4,10,0.0769,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18889,https://base.semlab.io/wiki/Item:Q18890
+78 Club,Verona Café,1,8,7,0.0714,Randy Weston,https://base.semlab.io/wiki/Item:Q18827,https://base.semlab.io/wiki/Item:Q18905
+Art Theater,Putnam Central,1,3,12,0.0714,Randy Weston,https://base.semlab.io/wiki/Item:Q18829,https://base.semlab.io/wiki/Item:Q18871
+Brooklyn Paramount Theater,The Jazz Spot,1,5,10,0.0714,Harold Valle,https://base.semlab.io/wiki/Item:Q22479,https://base.semlab.io/wiki/Item:Q18891
+Club 243,Turbo Village,1,7,8,0.0714,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18901
+It Club,The Id,1,5,10,0.0714,Cedar Walton,https://base.semlab.io/wiki/Item:Q22465,https://base.semlab.io/wiki/Item:Q18890
+It Club,Town Hill,1,5,10,0.0714,Donald Sangster,https://base.semlab.io/wiki/Item:Q22465,https://base.semlab.io/wiki/Item:Q18900
+Pumpkin's,The Id,1,5,10,0.0714,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18870,https://base.semlab.io/wiki/Item:Q18890
+Sugar Hill,The Id,1,5,10,0.0714,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18883,https://base.semlab.io/wiki/Item:Q18890
+Sugar Hill,Town Hill,1,5,10,0.0714,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18883,https://base.semlab.io/wiki/Item:Q18900
+The Elks Club,The Id,1,5,10,0.0714,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18886,https://base.semlab.io/wiki/Item:Q18890
+Turbo Village,Verona Café,1,8,7,0.0714,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18901,https://base.semlab.io/wiki/Item:Q18905
+Baby Grand Brooklyn,Unnamed music venue (Gates Avenue/Nostrand Avenue),1,15,1,0.0667,Randy Weston,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q21583
+Ben's,Brooklyn Academy of Music,1,2,14,0.0667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18837
+Ben's,Club La Marchal,1,2,14,0.0667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18847
+Brooklyn Academy of Music,K & C Lounge,1,14,2,0.0667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18859
+Brooklyn Academy of Music,Paul's,1,14,2,0.0667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18868
+Brooklyn Academy of Music,Town & Country,1,14,2,0.0667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18899
+Brownies,Medgar Evers College,1,4,12,0.0667,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18840,https://base.semlab.io/wiki/Item:Q18864
+Club 243,Loew's Brevoort Theatre,1,7,9,0.0667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18862
+Club La Marchal,K & C Lounge,1,14,2,0.0667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18859
+Club La Marchal,Paul's,1,14,2,0.0667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18868
+Club La Marchal,Town & Country,1,14,2,0.0667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18899
+Loew's Brevoort Theatre,Verona Café,1,9,7,0.0667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18862,https://base.semlab.io/wiki/Item:Q18905
+Pratt Institute,The Id,1,6,10,0.0667,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q19101,https://base.semlab.io/wiki/Item:Q18890
+Pratt Institute,Town Hill,1,6,10,0.0667,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q19101,https://base.semlab.io/wiki/Item:Q18900
+Pratt Institute,Valhal Jazz Pub,1,6,10,0.0667,Jitu Weusi,https://base.semlab.io/wiki/Item:Q19101,https://base.semlab.io/wiki/Item:Q18904
+Putnam Central,Slave Theater,1,12,4,0.0667,Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18871,https://base.semlab.io/wiki/Item:Q18877
+Putnam Central,The Fantasy,1,12,4,0.0667,Burt Keyes,https://base.semlab.io/wiki/Item:Q18871,https://base.semlab.io/wiki/Item:Q18887
+Putnam Central,The Hole (Bridge and Willoughby),1,12,4,0.0667,Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18871,https://base.semlab.io/wiki/Item:Q18889
+Smuckers,The Jazz Spot,1,6,10,0.0667,Harold Valle,https://base.semlab.io/wiki/Item:Q18879,https://base.semlab.io/wiki/Item:Q18891
+Smuckers,Town Hill,1,6,10,0.0667,Harold Valle,https://base.semlab.io/wiki/Item:Q18879,https://base.semlab.io/wiki/Item:Q18900
+Sonya Ballroom,The Id,1,6,10,0.0667,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18881,https://base.semlab.io/wiki/Item:Q18890
+Arlington Inn,Loew's Brevoort Theatre,1,8,9,0.0625,Jimmy Morton,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18862
+Baby Grand Brooklyn,Ben's,1,15,2,0.0625,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18832
+Baby Grand Brooklyn,Concord Baptist Church,1,15,2,0.0625,Max Roach,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q22272
+Baby Grand Brooklyn,Fort Greene Senior Center,1,15,2,0.0625,Sam Pinn,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q23455
+Baby Grand Brooklyn,Franks,1,15,2,0.0625,Randy Weston,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q23431
+Baby Grand Brooklyn,Lincoln Club,1,15,2,0.0625,Max Roach,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q22240
+Baby Grand Brooklyn,Paul's,1,15,2,0.0625,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18868
+Baby Grand Brooklyn,Town & Country,1,15,2,0.0625,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18899
+Brooklyn Academy of Music,Carroll Bar,1,14,3,0.0625,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18842
+Carroll Bar,Club La Marchal,1,3,14,0.0625,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18842,https://base.semlab.io/wiki/Item:Q18847
+Club 243,The Id,1,7,10,0.0625,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18890
+Club 243,The Jazz Spot,1,7,10,0.0625,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18891
+Club 243,Town Hill,1,7,10,0.0625,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18900
+Club 243,Valhal Jazz Pub,1,7,10,0.0625,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18904
+Club La Marchal,The Happy Landing,1,14,3,0.0625,James Spaulding,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18888
+Medgar Evers College,Pumpkin's,1,12,5,0.0625,Irene Reid,https://base.semlab.io/wiki/Item:Q18864,https://base.semlab.io/wiki/Item:Q18870
+Medgar Evers College,Willoughby Temple,1,12,5,0.0625,Jimmy Morton,https://base.semlab.io/wiki/Item:Q18864,https://base.semlab.io/wiki/Item:Q18910
+Moulin Rouge,The Id,1,7,10,0.0625,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18866,https://base.semlab.io/wiki/Item:Q18890
+Raintrees,The Muse,1,1,16,0.0625,Wade E. Barnes,https://base.semlab.io/wiki/Item:Q19683,https://base.semlab.io/wiki/Item:Q18894
+The Id,Verona Café,1,10,7,0.0625,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18890,https://base.semlab.io/wiki/Item:Q18905
+Arlington Inn,The Jazz Spot,1,8,10,0.0588,Harold Valle,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18891
+Art Theater,Baby Grand Brooklyn,1,3,15,0.0588,Randy Weston,https://base.semlab.io/wiki/Item:Q18829,https://base.semlab.io/wiki/Item:Q18830
+Baby Grand Brooklyn,Carroll Bar,1,15,3,0.0588,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18842
+Baby Grand Brooklyn,Tip Top Inn,1,15,3,0.0588,Jitu Weusi,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18897
+Baby Grand Brooklyn,Trios Restaurant,1,15,3,0.0588,Randy Weston,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q22243
+Bickford's Restaurant,Club La Marchal,1,4,14,0.0588,Freddie Hubbard,https://base.semlab.io/wiki/Item:Q22253,https://base.semlab.io/wiki/Item:Q18847
+Brooklyn Academy of Music,New York Aquarium,1,14,4,0.0588,Bob Myers,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q22268
+Brooklyn Academy of Music,Solomon’s Porch,1,14,4,0.0588,Maurice Brown,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18880
+Brooklyn Academy of Music,The Fantasy,1,14,4,0.0588,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18887
+Brooklyn Academy of Music,The Hole (Bridge and Willoughby),1,14,4,0.0588,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18889
+Brooklyn Public Library,The Muse,1,2,16,0.0588,Wade E. Barnes,https://base.semlab.io/wiki/Item:Q22273,https://base.semlab.io/wiki/Item:Q18894
+Brownies,Club La Marchal,1,4,14,0.0588,Kwesi Mensah Wali,https://base.semlab.io/wiki/Item:Q18840,https://base.semlab.io/wiki/Item:Q18847
+Club La Marchal,The Fantasy,1,14,4,0.0588,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18887
+Club La Marchal,The Hole (Bridge and Willoughby),1,14,4,0.0588,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18889
+Flamingo Lounge,Siloam Presbyterian Church,1,17,1,0.0588,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q23419
+Kingston Lounge,Siloam Presbyterian Church,1,17,1,0.0588,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q23419
+Kingston Lounge,Unnamed music venue (Franklin Avenue/near St. John's Place),1,17,1,0.0588,Rector Bailey,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q23207
+Kingston Lounge,Unnamed music venue (Gates Avenue/Nostrand Avenue),1,17,1,0.0588,Randy Weston,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q21583
+Kingston Lounge,Unnamed music venue (Vanderbilt Avenue/Gates Avenue),1,17,1,0.0588,Rector Bailey,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q23442
+Medgar Evers College,Pratt Institute,1,12,6,0.0588,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18864,https://base.semlab.io/wiki/Item:Q19101
+The Jazz Spot,Turbo Village,1,10,8,0.0588,Harold Valle,https://base.semlab.io/wiki/Item:Q18891,https://base.semlab.io/wiki/Item:Q18901
+The Muse,Unnamed music venue (Farrragut Street/Nostrand Avenue),1,16,2,0.0588,Wade E. Barnes,https://base.semlab.io/wiki/Item:Q18894,https://base.semlab.io/wiki/Item:Q19682
+Town Hill,Turbo Village,1,10,8,0.0588,Harold Valle,https://base.semlab.io/wiki/Item:Q18900,https://base.semlab.io/wiki/Item:Q18901
+Baby Grand Brooklyn,Brooklyn Apollo,1,15,4,0.0556,Jitu Weusi,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18838
+Baby Grand Brooklyn,Brownies,1,15,4,0.0556,Sam Pinn,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18840
+Baby Grand Brooklyn,Slave Theater,1,15,4,0.0556,Big Maybelle,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18877
+Baby Grand Brooklyn,The Hole (Bridge and Willoughby),1,15,4,0.0556,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18889
+Ben's,Flamingo Lounge,1,2,17,0.0556,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18853
+Ben's,Kingston Lounge,1,2,17,0.0556,Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18860
+Brooklyn Academy of Music,Pumpkin's,1,14,5,0.0556,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18870
+Brooklyn Academy of Music,Sugar Hill,1,14,5,0.0556,Alma Carroll,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18883
+Brooklyn Academy of Music,The Elks Club,1,14,5,0.0556,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18886
+Brooklyn Academy of Music,Willoughby Temple,1,14,5,0.0556,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18910
+Club 243,Putnam Central,1,7,12,0.0556,Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18871
+Club La Marchal,It Club,1,14,5,0.0556,Freddie Hubbard,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q22465
+Club La Marchal,Pumpkin's,1,14,5,0.0556,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18870
+Club La Marchal,The Elks Club,1,14,5,0.0556,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18886
+Club La Marchal,Willoughby Temple,1,14,5,0.0556,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18910
+Club Monterey,Flamingo Lounge,1,2,17,0.0556,Michael Howard,https://base.semlab.io/wiki/Item:Q26312,https://base.semlab.io/wiki/Item:Q18853
+Flamingo Lounge,Fort Greene Senior Center,1,17,2,0.0556,Torrie McCartney,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q23455
+Flamingo Lounge,K & C Lounge,1,17,2,0.0556,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18859
+Flamingo Lounge,Paul's,1,17,2,0.0556,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18868
+Flamingo Lounge,Town & Country,1,17,2,0.0556,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18899
+Fort Greene Senior Center,Kingston Lounge,1,2,17,0.0556,Sam Pinn,https://base.semlab.io/wiki/Item:Q23455,https://base.semlab.io/wiki/Item:Q18860
+Franks,Kingston Lounge,1,2,17,0.0556,Randy Weston,https://base.semlab.io/wiki/Item:Q23431,https://base.semlab.io/wiki/Item:Q18860
+K & C Lounge,Kingston Lounge,1,2,17,0.0556,Randy Weston,https://base.semlab.io/wiki/Item:Q18859,https://base.semlab.io/wiki/Item:Q18860
+Kingston Lounge,Lincoln Club,1,17,2,0.0556,Thelonious Monk,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q22240
+Kingston Lounge,Paul's,1,17,2,0.0556,Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q18868
+Kingston Lounge,Town & Country,1,17,2,0.0556,Jimmy Morton,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q18899
+Moulin Rouge,Putnam Central,1,7,12,0.0556,Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18866,https://base.semlab.io/wiki/Item:Q18871
+Putnam Central,Verona Café,1,12,7,0.0556,Randy Weston,https://base.semlab.io/wiki/Item:Q18871,https://base.semlab.io/wiki/Item:Q18905
+Arlington Inn,Putnam Central,1,8,12,0.0526,Thelonious Monk,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18871
+Art Theater,Kingston Lounge,1,3,17,0.0526,Randy Weston,https://base.semlab.io/wiki/Item:Q18829,https://base.semlab.io/wiki/Item:Q18860
+Baby Grand Brooklyn,Brooklyn Paramount Theater,1,15,5,0.0526,Harold Valle,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q22479
+Baby Grand Brooklyn,Pumpkin's,1,15,5,0.0526,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18870
+Baby Grand Brooklyn,Willoughby Temple,1,15,5,0.0526,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18910
+Brooklyn Academy of Music,Sonya Ballroom,1,14,6,0.0526,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18881
+Carroll Bar,Flamingo Lounge,1,3,17,0.0526,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18842,https://base.semlab.io/wiki/Item:Q18853
+Club La Marchal,Sonya Ballroom,1,14,6,0.0526,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18881
+Medgar Evers College,Turbo Village,1,12,8,0.0526,Jimmy Morton,https://base.semlab.io/wiki/Item:Q18864,https://base.semlab.io/wiki/Item:Q18901
+Slave Theater,The Muse,1,4,16,0.0526,Wade E. Barnes,https://base.semlab.io/wiki/Item:Q18877,https://base.semlab.io/wiki/Item:Q18894
+The Id,Town Hill,1,10,10,0.0526,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18890,https://base.semlab.io/wiki/Item:Q18900
+Town Hill,Valhal Jazz Pub,1,10,10,0.0526,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18900,https://base.semlab.io/wiki/Item:Q18904
+Baby Grand Brooklyn,Smuckers,1,15,6,0.05,Harold Valle,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18879
+Brooklyn Academy of Music,Club 243,1,14,7,0.05,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18844
+Brooklyn Academy of Music,Moulin Rouge,1,14,7,0.05,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18866
+Brooklyn Academy of Music,Verona Café,1,14,7,0.05,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18905
+Brownies,Kingston Lounge,1,4,17,0.05,Sam Pinn,https://base.semlab.io/wiki/Item:Q18840,https://base.semlab.io/wiki/Item:Q18860
+Club 243,Club La Marchal,1,7,14,0.05,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18847
+Club La Marchal,Moulin Rouge,1,14,7,0.05,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18866
+Club La Marchal,Verona Café,1,14,7,0.05,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18905
+Flamingo Lounge,The Fantasy,1,17,4,0.05,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18887
+Flamingo Lounge,The Hole (Bridge and Willoughby),1,17,4,0.05,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18889
+Kingston Lounge,Slave Theater,1,17,4,0.05,Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q18877
+Kingston Lounge,The Hole (Bridge and Willoughby),1,17,4,0.05,Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q18889
+Loew's Brevoort Theatre,Medgar Evers College,1,9,12,0.05,Jimmy Morton,https://base.semlab.io/wiki/Item:Q18862,https://base.semlab.io/wiki/Item:Q18864
+Arlington Inn,Brooklyn Academy of Music,1,8,14,0.0476,Alma Carroll,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18837
+Arlington Inn,Club La Marchal,1,8,14,0.0476,Kwesi Mensah Wali,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18847
+Baby Grand Brooklyn,Club 243,1,15,7,0.0476,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18844
+Baby Grand Brooklyn,Moulin Rouge,1,15,7,0.0476,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18866
+Brooklyn Academy of Music,Turbo Village,1,14,8,0.0476,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18901
+Brooklyn Paramount Theater,Flamingo Lounge,1,5,17,0.0476,Harold Valle,https://base.semlab.io/wiki/Item:Q22479,https://base.semlab.io/wiki/Item:Q18853
+Flamingo Lounge,The Elks Club,1,17,5,0.0476,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18886
+Flamingo Lounge,Tiffany Lounge,1,17,5,0.0476,John Orr,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18896
+Flamingo Lounge,Willoughby Temple,1,17,5,0.0476,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18910
+Kingston Lounge,Willoughby Temple,1,17,5,0.0476,Jimmy Morton,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q18910
+Medgar Evers College,The Jazz Spot,1,12,10,0.0476,Michael Howard,https://base.semlab.io/wiki/Item:Q18864,https://base.semlab.io/wiki/Item:Q18891
+Medgar Evers College,Town Hill,1,12,10,0.0476,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18864,https://base.semlab.io/wiki/Item:Q18900
+Parlor Jazz,Sista's Place,1,1,21,0.0476,Vanessa Rubin,https://base.semlab.io/wiki/Item:Q22562,https://base.semlab.io/wiki/Item:Q18876
+Siloam Presbyterian Church,Sista's Place,1,1,21,0.0476,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q23419,https://base.semlab.io/wiki/Item:Q18876
+Tony's Grand Dean,Unnamed music venue (Gates Avenue/Nostrand Avenue),1,21,1,0.0476,Randy Weston,https://base.semlab.io/wiki/Item:Q18898,https://base.semlab.io/wiki/Item:Q21583
+Brooklyn Academy of Music,Loew's Brevoort Theatre,1,14,9,0.0455,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18862
+Club La Marchal,Loew's Brevoort Theatre,1,14,9,0.0455,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18862
+Concord Baptist Church,Tony's Grand Dean,1,2,21,0.0455,Max Roach,https://base.semlab.io/wiki/Item:Q22272,https://base.semlab.io/wiki/Item:Q18898
+Flamingo Lounge,Pratt Institute,1,17,6,0.0455,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q19101
+Flamingo Lounge,Smuckers,1,17,6,0.0455,Harold Valle,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18879
+Flamingo Lounge,Sonya Ballroom,1,17,6,0.0455,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18881
+Fort Greene Senior Center,Sista's Place,1,2,21,0.0455,Torrie McCartney,https://base.semlab.io/wiki/Item:Q23455,https://base.semlab.io/wiki/Item:Q18876
+Franks,Tony's Grand Dean,1,2,21,0.0455,Randy Weston,https://base.semlab.io/wiki/Item:Q23431,https://base.semlab.io/wiki/Item:Q18898
+K & C Lounge,Tony's Grand Dean,1,2,21,0.0455,Randy Weston,https://base.semlab.io/wiki/Item:Q18859,https://base.semlab.io/wiki/Item:Q18898
+Tony's Grand Dean,Town & Country,1,21,2,0.0455,Jimmy Morton,https://base.semlab.io/wiki/Item:Q18898,https://base.semlab.io/wiki/Item:Q18899
+Art Theater,Tony's Grand Dean,1,3,21,0.0435,Randy Weston,https://base.semlab.io/wiki/Item:Q18829,https://base.semlab.io/wiki/Item:Q18898
+Baby Grand Brooklyn,Loew's Brevoort Theatre,1,15,9,0.0435,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18862
+Brooklyn Academy of Music,The Id,1,14,10,0.0435,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18890
+Club La Marchal,The Id,1,14,10,0.0435,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18890
+Flamingo Lounge,Verona Café,1,17,7,0.0435,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18905
+Kingston Lounge,Moulin Rouge,1,17,7,0.0435,Harold Cumberbatch,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q18866
+Kingston Lounge,Verona Café,1,17,7,0.0435,Randy Weston,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q18905
+Medgar Evers College,Putnam Central,1,12,12,0.0435,Willie Jones,https://base.semlab.io/wiki/Item:Q18864,https://base.semlab.io/wiki/Item:Q18871
+78 Club,Kingston Lounge,1,8,17,0.0417,Randy Weston,https://base.semlab.io/wiki/Item:Q18827,https://base.semlab.io/wiki/Item:Q18860
+Baby Grand Brooklyn,The Id,1,15,10,0.0417,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18890
+Baby Grand Brooklyn,The Jazz Spot,1,15,10,0.0417,Harold Valle,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18891
+Baby Grand Brooklyn,Town Hill,1,15,10,0.0417,Harold Valle,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18900
+Baby Grand Brooklyn,Valhal Jazz Pub,1,15,10,0.0417,Jitu Weusi,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18904
+Ben's,Jazz 966,1,2,23,0.0417,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18857
+Brownies,Sista's Place,1,4,21,0.0417,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18840,https://base.semlab.io/wiki/Item:Q18876
+Jazz 966,K & C Lounge,1,23,2,0.0417,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18859
+Jazz 966,Paul's,1,23,2,0.0417,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18868
+Jazz 966,Town & Country,1,23,2,0.0417,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18899
+Kingston Lounge,Turbo Village,1,17,8,0.0417,Jimmy Morton,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q18901
+Sista's Place,Solomon’s Porch,1,21,4,0.0417,Vanessa Rubin,https://base.semlab.io/wiki/Item:Q18876,https://base.semlab.io/wiki/Item:Q18880
+The Centaur,Tony's Grand Dean,1,4,21,0.0417,Paul Chambers,https://base.semlab.io/wiki/Item:Q22435,https://base.semlab.io/wiki/Item:Q18898
+Brooklyn Academy of Music,Medgar Evers College,1,14,12,0.04,Alma Carroll,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18864
+Carroll Bar,Jazz 966,1,3,23,0.04,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18842,https://base.semlab.io/wiki/Item:Q18857
+Flamingo Lounge,Loew's Brevoort Theatre,1,17,9,0.04,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18862
+Kingston Lounge,Loew's Brevoort Theatre,1,17,9,0.04,Jimmy Morton,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q18862
+Pumpkin's,Sista's Place,1,5,21,0.04,Vanessa Rubin,https://base.semlab.io/wiki/Item:Q18870,https://base.semlab.io/wiki/Item:Q18876
+Raintrees,The East,1,1,25,0.04,Wade E. Barnes,https://base.semlab.io/wiki/Item:Q19683,https://base.semlab.io/wiki/Item:Q18885
+Siloam Presbyterian Church,The East,1,1,25,0.04,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q23419,https://base.semlab.io/wiki/Item:Q18885
+The Blue Coronet,The Coronet,1,25,1,0.04,"Richard ""Dickie"" Habersham-Bey",https://base.semlab.io/wiki/Item:Q18834,https://base.semlab.io/wiki/Item:Q22327
+The Blue Coronet,Uptown Lounge,1,25,1,0.04,"Richard ""Dickie"" Habersham-Bey",https://base.semlab.io/wiki/Item:Q18834,https://base.semlab.io/wiki/Item:Q22308
+The Continental,The Coronet,1,25,1,0.04,"Richard ""Dickie"" Habersham-Bey",https://base.semlab.io/wiki/Item:Q18884,https://base.semlab.io/wiki/Item:Q22327
+The Continental,Uptown Lounge,1,25,1,0.04,"Richard ""Dickie"" Habersham-Bey",https://base.semlab.io/wiki/Item:Q18884,https://base.semlab.io/wiki/Item:Q22308
+The East,Unnamed music venue (Gates Avenue/Nostrand Avenue),1,25,1,0.04,Randy Weston,https://base.semlab.io/wiki/Item:Q18885,https://base.semlab.io/wiki/Item:Q21583
+The Happy Landing,Up Over Jazz Café,1,3,23,0.04,James Spaulding,https://base.semlab.io/wiki/Item:Q18888,https://base.semlab.io/wiki/Item:Q18903
+The Jazz Spot,The Muse,1,10,16,0.04,Danny Mixon,https://base.semlab.io/wiki/Item:Q18891,https://base.semlab.io/wiki/Item:Q18894
+Baby Grand Brooklyn,Medgar Evers College,1,15,12,0.0385,Alma Carroll,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18864
+Ben's,The Blue Coronet,1,2,25,0.0385,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18832,https://base.semlab.io/wiki/Item:Q18834
+Bickford's Restaurant,Up Over Jazz Café,1,4,23,0.0385,Cedar Walton,https://base.semlab.io/wiki/Item:Q22253,https://base.semlab.io/wiki/Item:Q18903
+Brooklyn Public Library,The East,1,2,25,0.0385,Wade E. Barnes,https://base.semlab.io/wiki/Item:Q22273,https://base.semlab.io/wiki/Item:Q18885
+Brownies,Up Over Jazz Café,1,4,23,0.0385,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18840,https://base.semlab.io/wiki/Item:Q18903
+Club Monterey,The Blue Coronet,1,2,25,0.0385,Arthur Prysock,https://base.semlab.io/wiki/Item:Q26312,https://base.semlab.io/wiki/Item:Q18834
+Fox Theatre,The Blue Coronet,1,2,25,0.0385,Wynton Kelly,https://base.semlab.io/wiki/Item:Q22463,https://base.semlab.io/wiki/Item:Q18834
+Fox Theatre,The Continental,1,2,25,0.0385,Wynton Kelly,https://base.semlab.io/wiki/Item:Q22463,https://base.semlab.io/wiki/Item:Q18884
+Jazz 966,The Fantasy,1,23,4,0.0385,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18887
+Jazz 966,The Hole (Bridge and Willoughby),1,23,4,0.0385,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18889
+K & C Lounge,The Blue Coronet,1,2,25,0.0385,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18859,https://base.semlab.io/wiki/Item:Q18834
+K & C Lounge,The East,1,2,25,0.0385,Randy Weston,https://base.semlab.io/wiki/Item:Q18859,https://base.semlab.io/wiki/Item:Q18885
+Kingston Lounge,The Id,1,17,10,0.0385,Jimmy Morton,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q18890
+Kingston Lounge,The Jazz Spot,1,17,10,0.0385,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q18891
+Kingston Lounge,Town Hill,1,17,10,0.0385,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q18900
+Kingston Lounge,Valhal Jazz Pub,1,17,10,0.0385,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q18904
+New World,The Continental,1,2,25,0.0385,"Richard ""Dickie"" Habersham-Bey",https://base.semlab.io/wiki/Item:Q22307,https://base.semlab.io/wiki/Item:Q18884
+New York Aquarium,Up Over Jazz Café,1,4,23,0.0385,Bob Myers,https://base.semlab.io/wiki/Item:Q22268,https://base.semlab.io/wiki/Item:Q18903
+Paul's,The Blue Coronet,1,2,25,0.0385,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18868,https://base.semlab.io/wiki/Item:Q18834
+Pratt Institute,Sista's Place,1,6,21,0.0385,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q19101,https://base.semlab.io/wiki/Item:Q18876
+Sonya Ballroom,Tony's Grand Dean,1,6,21,0.0385,Randy Weston,https://base.semlab.io/wiki/Item:Q18881,https://base.semlab.io/wiki/Item:Q18898
+The Blue Coronet,Town & Country,1,25,2,0.0385,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18834,https://base.semlab.io/wiki/Item:Q18899
+The East,Unnamed music venue (Farrragut Street/Nostrand Avenue),1,25,2,0.0385,Wade E. Barnes,https://base.semlab.io/wiki/Item:Q18885,https://base.semlab.io/wiki/Item:Q19682
+Brooklyn Academy of Music,Club La Marchal,1,14,14,0.037,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18847
+Brooklyn Paramount Theater,Jazz 966,1,5,23,0.037,Harold Valle,https://base.semlab.io/wiki/Item:Q22479,https://base.semlab.io/wiki/Item:Q18857
+Carroll Bar,The Blue Coronet,1,3,25,0.037,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18842,https://base.semlab.io/wiki/Item:Q18834
+Club 243,Sista's Place,1,7,21,0.037,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18876
+It Club,Up Over Jazz Café,1,5,23,0.037,Cedar Walton,https://base.semlab.io/wiki/Item:Q22465,https://base.semlab.io/wiki/Item:Q18903
+Jazz 966,Willoughby Temple,1,23,5,0.037,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18910
+Moulin Rouge,Tony's Grand Dean,1,7,21,0.037,Miles Davis,https://base.semlab.io/wiki/Item:Q18866,https://base.semlab.io/wiki/Item:Q18898
+New Muse,Up Over Jazz Café,1,5,23,0.037,Reggie Workman,https://base.semlab.io/wiki/Item:Q22544,https://base.semlab.io/wiki/Item:Q18903
+Pumpkin's,Up Over Jazz Café,1,5,23,0.037,Keisha St. Joan,https://base.semlab.io/wiki/Item:Q18870,https://base.semlab.io/wiki/Item:Q18903
+Sugar Hill,Up Over Jazz Café,1,5,23,0.037,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18883,https://base.semlab.io/wiki/Item:Q18903
+The Blue Coronet,Tip Top Inn,1,25,3,0.037,Jitu Weusi,https://base.semlab.io/wiki/Item:Q18834,https://base.semlab.io/wiki/Item:Q18897
+The Continental,The Happy Landing,1,25,3,0.037,James Spaulding,https://base.semlab.io/wiki/Item:Q18884,https://base.semlab.io/wiki/Item:Q18888
+The East,Tip Top Inn,1,25,3,0.037,Jitu Weusi,https://base.semlab.io/wiki/Item:Q18885,https://base.semlab.io/wiki/Item:Q18897
+Tony's Grand Dean,Verona Café,1,21,7,0.037,Randy Weston,https://base.semlab.io/wiki/Item:Q18898,https://base.semlab.io/wiki/Item:Q18905
+Baby Grand Brooklyn,Club La Marchal,1,15,14,0.0357,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18830,https://base.semlab.io/wiki/Item:Q18847
+Bickford's Restaurant,The Blue Coronet,1,4,25,0.0357,Freddie Hubbard,https://base.semlab.io/wiki/Item:Q22253,https://base.semlab.io/wiki/Item:Q18834
+Bickford's Restaurant,The East,1,4,25,0.0357,Freddie Hubbard,https://base.semlab.io/wiki/Item:Q22253,https://base.semlab.io/wiki/Item:Q18885
+Brooklyn Apollo,The East,1,4,25,0.0357,Jitu Weusi,https://base.semlab.io/wiki/Item:Q18838,https://base.semlab.io/wiki/Item:Q18885
+Brownies,The Blue Coronet,1,4,25,0.0357,Kwesi Mensah Wali,https://base.semlab.io/wiki/Item:Q18840,https://base.semlab.io/wiki/Item:Q18834
+Brownies,The Continental,1,4,25,0.0357,Kwesi Mensah Wali,https://base.semlab.io/wiki/Item:Q18840,https://base.semlab.io/wiki/Item:Q18884
+Brownies,The East,1,4,25,0.0357,Kwesi Mensah Wali,https://base.semlab.io/wiki/Item:Q18840,https://base.semlab.io/wiki/Item:Q18885
+Jazz 966,Pratt Institute,1,23,6,0.0357,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q19101
+Jazz 966,Smuckers,1,23,6,0.0357,Harold Valle,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18879
+Jazz 966,Sonya Ballroom,1,23,6,0.0357,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18881
+Kingston Lounge,Medgar Evers College,1,17,12,0.0357,Jimmy Morton,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q18864
+Pratt Institute,Up Over Jazz Café,1,6,23,0.0357,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q19101,https://base.semlab.io/wiki/Item:Q18903
+Sista's Place,Turbo Village,1,21,8,0.0357,Andrew Cyrille,https://base.semlab.io/wiki/Item:Q18876,https://base.semlab.io/wiki/Item:Q18901
+Slave Theater,The East,1,4,25,0.0357,Wade E. Barnes,https://base.semlab.io/wiki/Item:Q18877,https://base.semlab.io/wiki/Item:Q18885
+The Blue Coronet,The Hole (Bridge and Willoughby),1,25,4,0.0357,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18834,https://base.semlab.io/wiki/Item:Q18889
+The Centaur,The Continental,1,4,25,0.0357,Wynton Kelly,https://base.semlab.io/wiki/Item:Q22435,https://base.semlab.io/wiki/Item:Q18884
+The Continental,The Fantasy,1,25,4,0.0357,Wynton Kelly,https://base.semlab.io/wiki/Item:Q18884,https://base.semlab.io/wiki/Item:Q18887
+The East,The Fantasy,1,25,4,0.0357,Jitu Weusi,https://base.semlab.io/wiki/Item:Q18885,https://base.semlab.io/wiki/Item:Q18887
+Tony's Grand Dean,Turbo Village,1,21,8,0.0357,Jimmy Morton,https://base.semlab.io/wiki/Item:Q18898,https://base.semlab.io/wiki/Item:Q18901
+Brooklyn Paramount Theater,The Continental,1,5,25,0.0345,Donald Sangster,https://base.semlab.io/wiki/Item:Q22479,https://base.semlab.io/wiki/Item:Q18884
+Club 243,Jazz 966,1,7,23,0.0345,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18857
+It Club,The Blue Coronet,1,5,25,0.0345,Freddie Hubbard,https://base.semlab.io/wiki/Item:Q22465,https://base.semlab.io/wiki/Item:Q18834
+It Club,The Continental,1,5,25,0.0345,Donald Sangster,https://base.semlab.io/wiki/Item:Q22465,https://base.semlab.io/wiki/Item:Q18884
+It Club,The East,1,5,25,0.0345,Freddie Hubbard,https://base.semlab.io/wiki/Item:Q22465,https://base.semlab.io/wiki/Item:Q18885
+Jazz 966,Verona Café,1,23,7,0.0345,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18905
+New Muse,The Continental,1,5,25,0.0345,Reggie Workman,https://base.semlab.io/wiki/Item:Q22544,https://base.semlab.io/wiki/Item:Q18884
+New Muse,The East,1,5,25,0.0345,Reggie Workman,https://base.semlab.io/wiki/Item:Q22544,https://base.semlab.io/wiki/Item:Q18885
+Pumpkin's,The Blue Coronet,1,5,25,0.0345,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18870,https://base.semlab.io/wiki/Item:Q18834
+Sugar Hill,The Blue Coronet,1,5,25,0.0345,Jitu Weusi,https://base.semlab.io/wiki/Item:Q18883,https://base.semlab.io/wiki/Item:Q18834
+Sugar Hill,The East,1,5,25,0.0345,Jitu Weusi,https://base.semlab.io/wiki/Item:Q18883,https://base.semlab.io/wiki/Item:Q18885
+The Blue Coronet,The Elks Club,1,25,5,0.0345,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18834,https://base.semlab.io/wiki/Item:Q18886
+The Continental,Willoughby Temple,1,25,5,0.0345,Miles Davis,https://base.semlab.io/wiki/Item:Q18884,https://base.semlab.io/wiki/Item:Q18910
+The East,The Elks Club,1,25,5,0.0345,Randy Weston,https://base.semlab.io/wiki/Item:Q18885,https://base.semlab.io/wiki/Item:Q18886
+The East,Tiffany Lounge,1,25,5,0.0345,Wade E. Barnes,https://base.semlab.io/wiki/Item:Q18885,https://base.semlab.io/wiki/Item:Q18896
+78 Club,Jazz 966,1,8,23,0.0333,Cecil Payne,https://base.semlab.io/wiki/Item:Q18827,https://base.semlab.io/wiki/Item:Q18857
+Arlington Inn,Up Over Jazz Café,1,8,23,0.0333,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18903
+Brooklyn Academy of Music,Flamingo Lounge,1,14,17,0.0333,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18853
+Club La Marchal,Flamingo Lounge,1,14,17,0.0333,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18853
+Pratt Institute,The Blue Coronet,1,6,25,0.0333,Jitu Weusi,https://base.semlab.io/wiki/Item:Q19101,https://base.semlab.io/wiki/Item:Q18834
+Sista's Place,The Id,1,21,10,0.0333,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18876,https://base.semlab.io/wiki/Item:Q18890
+Sista's Place,The Jazz Spot,1,21,10,0.0333,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18876,https://base.semlab.io/wiki/Item:Q18891
+Sonya Ballroom,The Continental,1,6,25,0.0333,Wynton Kelly,https://base.semlab.io/wiki/Item:Q18881,https://base.semlab.io/wiki/Item:Q18884
+Sonya Ballroom,The East,1,6,25,0.0333,Randy Weston,https://base.semlab.io/wiki/Item:Q18881,https://base.semlab.io/wiki/Item:Q18885
+Turbo Village,Up Over Jazz Café,1,8,23,0.0333,Andrew Cyrille,https://base.semlab.io/wiki/Item:Q18901,https://base.semlab.io/wiki/Item:Q18903
+Club 243,The Blue Coronet,1,7,25,0.0323,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18834
+Club 243,The East,1,7,25,0.0323,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18844,https://base.semlab.io/wiki/Item:Q18885
+Jazz 966,Loew's Brevoort Theatre,1,23,9,0.0323,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18862
+Moulin Rouge,The Continental,1,7,25,0.0323,Miles Davis,https://base.semlab.io/wiki/Item:Q18866,https://base.semlab.io/wiki/Item:Q18884
+The Blue Coronet,Verona Café,1,25,7,0.0323,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18834,https://base.semlab.io/wiki/Item:Q18905
+The East,Verona Café,1,25,7,0.0323,Randy Weston,https://base.semlab.io/wiki/Item:Q18885,https://base.semlab.io/wiki/Item:Q18905
+78 Club,The Continental,1,8,25,0.0312,Scottie,https://base.semlab.io/wiki/Item:Q18827,https://base.semlab.io/wiki/Item:Q18884
+78 Club,The East,1,8,25,0.0312,Randy Weston,https://base.semlab.io/wiki/Item:Q18827,https://base.semlab.io/wiki/Item:Q18885
+Arlington Inn,The Blue Coronet,1,8,25,0.0312,Kwesi Mensah Wali,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18834
+Arlington Inn,The Continental,1,8,25,0.0312,Kwesi Mensah Wali,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18884
+Arlington Inn,The East,1,8,25,0.0312,Kwesi Mensah Wali,https://base.semlab.io/wiki/Item:Q18828,https://base.semlab.io/wiki/Item:Q18885
+Flamingo Lounge,The Muse,1,17,16,0.0312,Kiane Zawadi,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18894
+The East,Turbo Village,1,25,8,0.0312,Freddie Hubbard,https://base.semlab.io/wiki/Item:Q18885,https://base.semlab.io/wiki/Item:Q18901
+Town Hill,Up Over Jazz Café,1,10,23,0.0312,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18900,https://base.semlab.io/wiki/Item:Q18903
+Up Over Jazz Café,Valhal Jazz Pub,1,23,10,0.0312,Keisha St. Joan,https://base.semlab.io/wiki/Item:Q18903,https://base.semlab.io/wiki/Item:Q18904
+Flamingo Lounge,Kingston Lounge,1,17,17,0.0303,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18860
+Brooklyn Academy of Music,Sista's Place,1,14,21,0.0294,Alma Carroll,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18876
+Club La Marchal,Sista's Place,1,14,21,0.0294,James Spaulding,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18876
+Medgar Evers College,Up Over Jazz Café,1,12,23,0.0294,Jo Ann Cheatham,https://base.semlab.io/wiki/Item:Q18864,https://base.semlab.io/wiki/Item:Q18903
+The Blue Coronet,The Id,1,25,10,0.0294,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18834,https://base.semlab.io/wiki/Item:Q18890
+The Blue Coronet,Valhal Jazz Pub,1,25,10,0.0294,Jitu Weusi,https://base.semlab.io/wiki/Item:Q18834,https://base.semlab.io/wiki/Item:Q18904
+The Continental,The Id,1,25,10,0.0294,Kenny Dorham,https://base.semlab.io/wiki/Item:Q18884,https://base.semlab.io/wiki/Item:Q18890
+The Continental,Town Hill,1,25,10,0.0294,Donald Sangster,https://base.semlab.io/wiki/Item:Q18884,https://base.semlab.io/wiki/Item:Q18900
+The East,The Jazz Spot,1,25,10,0.0294,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18885,https://base.semlab.io/wiki/Item:Q18891
+The East,Town Hill,1,25,10,0.0294,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18885,https://base.semlab.io/wiki/Item:Q18900
+Brooklyn Academy of Music,Jazz 966,1,14,23,0.0278,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18857
+Club La Marchal,Jazz 966,1,14,23,0.0278,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18857
+Club La Marchal,Up Over Jazz Café,1,14,23,0.0278,James Spaulding,https://base.semlab.io/wiki/Item:Q18847,https://base.semlab.io/wiki/Item:Q18903
+Medgar Evers College,The Continental,1,12,25,0.0278,Willie Jones,https://base.semlab.io/wiki/Item:Q18864,https://base.semlab.io/wiki/Item:Q18884
+Putnam Central,The Continental,1,12,25,0.0278,Willie Jones,https://base.semlab.io/wiki/Item:Q18871,https://base.semlab.io/wiki/Item:Q18884
+Putnam Central,The East,1,12,25,0.0278,Randy Weston,https://base.semlab.io/wiki/Item:Q18871,https://base.semlab.io/wiki/Item:Q18885
+Kingston Lounge,Sista's Place,1,17,21,0.027,Tulivu-Donna Cumberbatch,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q18876
+Brooklyn Academy of Music,The Blue Coronet,1,14,25,0.0263,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18837,https://base.semlab.io/wiki/Item:Q18834
+Jazz 966,The Muse,1,23,16,0.0263,Kiane Zawadi,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18894
+The Muse,Up Over Jazz Café,1,16,23,0.0263,Reggie Workman,https://base.semlab.io/wiki/Item:Q18894,https://base.semlab.io/wiki/Item:Q18903
+Jazz 966,Kingston Lounge,1,23,17,0.0256,Sam Pinn,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18860
+The Blue Coronet,The Muse,1,25,16,0.025,Ahmed Abdullah,https://base.semlab.io/wiki/Item:Q18834,https://base.semlab.io/wiki/Item:Q18894
+The Continental,The Muse,1,25,16,0.025,Reggie Workman,https://base.semlab.io/wiki/Item:Q18884,https://base.semlab.io/wiki/Item:Q18894
+Flamingo Lounge,The Blue Coronet,1,17,25,0.0244,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18853,https://base.semlab.io/wiki/Item:Q18834
+Kingston Lounge,The Continental,1,17,25,0.0244,Ernie Henry,https://base.semlab.io/wiki/Item:Q18860,https://base.semlab.io/wiki/Item:Q18884
+Jazz 966,Tony's Grand Dean,1,23,21,0.0233,Etta Jones,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18898
+The East,Tony's Grand Dean,1,25,21,0.0222,Randy Weston,https://base.semlab.io/wiki/Item:Q18885,https://base.semlab.io/wiki/Item:Q18898
+Jazz 966,The Blue Coronet,1,23,25,0.0213,Edwin Stoute,https://base.semlab.io/wiki/Item:Q18857,https://base.semlab.io/wiki/Item:Q18834
+The Blue Coronet,Up Over Jazz Café,1,25,23,0.0213,James Spaulding,https://base.semlab.io/wiki/Item:Q18834,https://base.semlab.io/wiki/Item:Q18903
